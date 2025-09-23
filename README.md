@@ -33,4 +33,12 @@ Leetcode solutions
 |  |
 | ------- |
 | [0598-range-addition-ii](https://github.com/NamRana/Leetcode/tree/master/0598-range-addition-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0165-compare-version-numbers](https://github.com/NamRana/Leetcode/tree/master/0165-compare-version-numbers) |
+## String
+|  |
+| ------- |
+| [0165-compare-version-numbers](https://github.com/NamRana/Leetcode/tree/master/0165-compare-version-numbers) |
 <!---LeetCode Topics End-->
