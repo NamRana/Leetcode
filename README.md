@@ -13,6 +13,7 @@ Leetcode solutions
 ## Hash Table
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/NamRana/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0575-distribute-candies](https://github.com/NamRana/Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/NamRana/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NamRana/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -32,6 +33,7 @@ Leetcode solutions
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/NamRana/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0598-range-addition-ii](https://github.com/NamRana/Leetcode/tree/master/0598-range-addition-ii) |
 ## Two Pointers
 |  |
@@ -41,4 +43,5 @@ Leetcode solutions
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/NamRana/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/NamRana/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 <!---LeetCode Topics End-->
