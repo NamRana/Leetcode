@@ -7,6 +7,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/NamRana/Leetcode/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/NamRana/Leetcode/tree/master/0120-triangle) |
 | [0575-distribute-candies](https://github.com/NamRana/Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/NamRana/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/NamRana/Leetcode/tree/master/0598-range-addition-ii) |
@@ -82,4 +83,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [3973-flip-square-submatrix-vertically](https://github.com/NamRana/Leetcode/tree/master/3973-flip-square-submatrix-vertically) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0120-triangle](https://github.com/NamRana/Leetcode/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
