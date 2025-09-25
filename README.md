@@ -64,6 +64,7 @@ Leetcode solutions
 | [0179-largest-number](https://github.com/NamRana/Leetcode/tree/master/0179-largest-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/NamRana/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0383-ransom-note](https://github.com/NamRana/Leetcode/tree/master/0383-ransom-note) |
+| [0388-longest-absolute-file-path](https://github.com/NamRana/Leetcode/tree/master/0388-longest-absolute-file-path) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/NamRana/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/NamRana/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/NamRana/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -73,6 +74,7 @@ Leetcode solutions
 ## Stack
 |  |
 | ------- |
+| [0388-longest-absolute-file-path](https://github.com/NamRana/Leetcode/tree/master/0388-longest-absolute-file-path) |
 | [0682-baseball-game](https://github.com/NamRana/Leetcode/tree/master/0682-baseball-game) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/NamRana/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Simulation
@@ -100,4 +102,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/NamRana/Leetcode/tree/master/0179-largest-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0388-longest-absolute-file-path](https://github.com/NamRana/Leetcode/tree/master/0388-longest-absolute-file-path) |
 <!---LeetCode Topics End-->
