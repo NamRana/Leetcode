@@ -185,8 +185,17 @@ Leetcode solutions
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/NamRana/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3887-minimum-cost-path-with-edge-reversals](https://github.com/NamRana/Leetcode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [1873-longest-nice-substring](https://github.com/NamRana/Leetcode/tree/master/1873-longest-nice-substring) |
+## Graph
+|  |
+| ------- |
+| [3887-minimum-cost-path-with-edge-reversals](https://github.com/NamRana/Leetcode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3887-minimum-cost-path-with-edge-reversals](https://github.com/NamRana/Leetcode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
