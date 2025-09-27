@@ -22,6 +22,7 @@ Leetcode solutions
 | [0748-largest-number-at-least-twice-of-others](https://github.com/NamRana/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0749-shortest-completing-word](https://github.com/NamRana/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0830-largest-triangle-area](https://github.com/NamRana/Leetcode/tree/master/0830-largest-triangle-area) |
+| [0831-largest-sum-of-averages](https://github.com/NamRana/Leetcode/tree/master/0831-largest-sum-of-averages) |
 | [0837-most-common-word](https://github.com/NamRana/Leetcode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/NamRana/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1044-find-common-characters](https://github.com/NamRana/Leetcode/tree/master/1044-find-common-characters) |
@@ -144,6 +145,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0120-triangle](https://github.com/NamRana/Leetcode/tree/master/0120-triangle) |
+| [0831-largest-sum-of-averages](https://github.com/NamRana/Leetcode/tree/master/0831-largest-sum-of-averages) |
 ## Greedy
 |  |
 | ------- |
@@ -171,5 +173,6 @@ Leetcode solutions
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/NamRana/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/NamRana/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0831-largest-sum-of-averages](https://github.com/NamRana/Leetcode/tree/master/0831-largest-sum-of-averages) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/NamRana/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
