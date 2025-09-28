@@ -25,6 +25,7 @@ Leetcode solutions
 | [0831-largest-sum-of-averages](https://github.com/NamRana/Leetcode/tree/master/0831-largest-sum-of-averages) |
 | [0837-most-common-word](https://github.com/NamRana/Leetcode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/NamRana/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0881-loud-and-rich](https://github.com/NamRana/Leetcode/tree/master/0881-loud-and-rich) |
 | [1018-largest-perimeter-triangle](https://github.com/NamRana/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1044-find-common-characters](https://github.com/NamRana/Leetcode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/NamRana/Leetcode/tree/master/1217-relative-sort-array) |
@@ -168,6 +169,7 @@ Leetcode solutions
 | [0684-redundant-connection](https://github.com/NamRana/Leetcode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/NamRana/Leetcode/tree/master/0744-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/NamRana/Leetcode/tree/master/0871-keys-and-rooms) |
+| [0881-loud-and-rich](https://github.com/NamRana/Leetcode/tree/master/0881-loud-and-rich) |
 ## Counting Sort
 |  |
 | ------- |
@@ -204,6 +206,7 @@ Leetcode solutions
 | [0684-redundant-connection](https://github.com/NamRana/Leetcode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/NamRana/Leetcode/tree/master/0744-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/NamRana/Leetcode/tree/master/0871-keys-and-rooms) |
+| [0881-loud-and-rich](https://github.com/NamRana/Leetcode/tree/master/0881-loud-and-rich) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/NamRana/Leetcode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
@@ -220,4 +223,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/NamRana/Leetcode/tree/master/0684-redundant-connection) |
+## Topological Sort
+|  |
+| ------- |
+| [0881-loud-and-rich](https://github.com/NamRana/Leetcode/tree/master/0881-loud-and-rich) |
 <!---LeetCode Topics End-->
