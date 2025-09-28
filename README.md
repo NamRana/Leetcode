@@ -133,6 +133,7 @@ Leetcode solutions
 | [0682-baseball-game](https://github.com/NamRana/Leetcode/tree/master/0682-baseball-game) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/NamRana/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/NamRana/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0933-increasing-order-search-tree](https://github.com/NamRana/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/NamRana/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/NamRana/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Simulation
@@ -176,6 +177,7 @@ Leetcode solutions
 | [0776-n-ary-tree-postorder-traversal](https://github.com/NamRana/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0871-keys-and-rooms](https://github.com/NamRana/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/NamRana/Leetcode/tree/master/0881-loud-and-rich) |
+| [0933-increasing-order-search-tree](https://github.com/NamRana/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/NamRana/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Counting Sort
 |  |
@@ -246,6 +248,7 @@ Leetcode solutions
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/NamRana/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/NamRana/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/NamRana/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0933-increasing-order-search-tree](https://github.com/NamRana/Leetcode/tree/master/0933-increasing-order-search-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -254,8 +257,13 @@ Leetcode solutions
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/NamRana/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0933-increasing-order-search-tree](https://github.com/NamRana/Leetcode/tree/master/0933-increasing-order-search-tree) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/NamRana/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0933-increasing-order-search-tree](https://github.com/NamRana/Leetcode/tree/master/0933-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
