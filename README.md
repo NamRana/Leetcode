@@ -165,6 +165,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0388-longest-absolute-file-path](https://github.com/NamRana/Leetcode/tree/master/0388-longest-absolute-file-path) |
+| [0684-redundant-connection](https://github.com/NamRana/Leetcode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/NamRana/Leetcode/tree/master/0744-network-delay-time) |
 ## Counting Sort
 |  |
@@ -199,6 +200,7 @@ Leetcode solutions
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/NamRana/Leetcode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/NamRana/Leetcode/tree/master/0744-network-delay-time) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/NamRana/Leetcode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
@@ -209,5 +211,10 @@ Leetcode solutions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/NamRana/Leetcode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/NamRana/Leetcode/tree/master/0744-network-delay-time) |
+## Union Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/NamRana/Leetcode/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
