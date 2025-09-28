@@ -25,6 +25,7 @@ Leetcode solutions
 | [0831-largest-sum-of-averages](https://github.com/NamRana/Leetcode/tree/master/0831-largest-sum-of-averages) |
 | [0837-most-common-word](https://github.com/NamRana/Leetcode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/NamRana/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [1018-largest-perimeter-triangle](https://github.com/NamRana/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1044-find-common-characters](https://github.com/NamRana/Leetcode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/NamRana/Leetcode/tree/master/1217-relative-sort-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/NamRana/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -77,6 +78,7 @@ Leetcode solutions
 | [0594-longest-harmonious-subsequence](https://github.com/NamRana/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/NamRana/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/NamRana/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [1018-largest-perimeter-triangle](https://github.com/NamRana/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1217-relative-sort-array](https://github.com/NamRana/Leetcode/tree/master/1217-relative-sort-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/NamRana/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/NamRana/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -86,6 +88,7 @@ Leetcode solutions
 | [0166-fraction-to-recurring-decimal](https://github.com/NamRana/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0598-range-addition-ii](https://github.com/NamRana/Leetcode/tree/master/0598-range-addition-ii) |
 | [0830-largest-triangle-area](https://github.com/NamRana/Leetcode/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/NamRana/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/NamRana/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Two Pointers
 |  |
@@ -157,6 +160,7 @@ Leetcode solutions
 | ------- |
 | [0179-largest-number](https://github.com/NamRana/Leetcode/tree/master/0179-largest-number) |
 | [0611-valid-triangle-number](https://github.com/NamRana/Leetcode/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/NamRana/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 ## Depth-First Search
 |  |
 | ------- |
