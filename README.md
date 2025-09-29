@@ -179,6 +179,7 @@ Leetcode solutions
 | [0881-loud-and-rich](https://github.com/NamRana/Leetcode/tree/master/0881-loud-and-rich) |
 | [0933-increasing-order-search-tree](https://github.com/NamRana/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/NamRana/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1005-univalued-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/NamRana/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Counting Sort
 |  |
@@ -232,6 +233,7 @@ Leetcode solutions
 | [0744-network-delay-time](https://github.com/NamRana/Leetcode/tree/master/0744-network-delay-time) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/NamRana/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0871-keys-and-rooms](https://github.com/NamRana/Leetcode/tree/master/0871-keys-and-rooms) |
+| [1005-univalued-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/NamRana/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
@@ -251,6 +253,7 @@ Leetcode solutions
 | [0776-n-ary-tree-postorder-traversal](https://github.com/NamRana/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/NamRana/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/NamRana/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1005-univalued-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1005-univalued-binary-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -261,6 +264,7 @@ Leetcode solutions
 | [0572-subtree-of-another-tree](https://github.com/NamRana/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0933-increasing-order-search-tree](https://github.com/NamRana/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/NamRana/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1005-univalued-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1005-univalued-binary-tree) |
 ## Hash Function
 |  |
 | ------- |
