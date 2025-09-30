@@ -38,6 +38,7 @@ Leetcode solutions
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/NamRana/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/NamRana/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NamRana/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3463-alternating-groups-i](https://github.com/NamRana/Leetcode/tree/master/3463-alternating-groups-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/NamRana/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3973-flip-square-submatrix-vertically](https://github.com/NamRana/Leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Hash Table
@@ -83,6 +84,7 @@ Leetcode solutions
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NamRana/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/NamRana/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/NamRana/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3463-alternating-groups-i](https://github.com/NamRana/Leetcode/tree/master/3463-alternating-groups-i) |
 ## Sorting
 |  |
 | ------- |
