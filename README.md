@@ -62,6 +62,7 @@ Leetcode solutions
 | [2190-count-common-words-with-one-occurrence](https://github.com/NamRana/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/NamRana/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NamRana/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/NamRana/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Counting
 |  |
 | ------- |
@@ -81,6 +82,7 @@ Leetcode solutions
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NamRana/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NamRana/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/NamRana/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/NamRana/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
 | ------- |
@@ -138,6 +140,7 @@ Leetcode solutions
 | [2128-reverse-prefix-of-word](https://github.com/NamRana/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/NamRana/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/NamRana/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/NamRana/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
 | ------- |
