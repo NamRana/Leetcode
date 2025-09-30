@@ -36,6 +36,7 @@ Leetcode solutions
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/NamRana/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/NamRana/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/NamRana/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/NamRana/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NamRana/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/NamRana/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3973-flip-square-submatrix-vertically](https://github.com/NamRana/Leetcode/tree/master/3973-flip-square-submatrix-vertically) |
@@ -79,6 +80,7 @@ Leetcode solutions
 | [1873-longest-nice-substring](https://github.com/NamRana/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NamRana/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NamRana/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/NamRana/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 ## Sorting
 |  |
 | ------- |
