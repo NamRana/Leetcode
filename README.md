@@ -55,6 +55,7 @@ Leetcode solutions
 | [1044-find-common-characters](https://github.com/NamRana/Leetcode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/NamRana/Leetcode/tree/master/1217-relative-sort-array) |
 | [1873-longest-nice-substring](https://github.com/NamRana/Leetcode/tree/master/1873-longest-nice-substring) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NamRana/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/NamRana/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/NamRana/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/NamRana/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -66,6 +67,7 @@ Leetcode solutions
 | [0594-longest-harmonious-subsequence](https://github.com/NamRana/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/NamRana/Leetcode/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/NamRana/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NamRana/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/NamRana/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NamRana/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Sliding Window
@@ -74,6 +76,7 @@ Leetcode solutions
 | [0594-longest-harmonious-subsequence](https://github.com/NamRana/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/NamRana/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1873-longest-nice-substring](https://github.com/NamRana/Leetcode/tree/master/1873-longest-nice-substring) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NamRana/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -126,6 +129,7 @@ Leetcode solutions
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/NamRana/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1454-remove-palindromic-subsequences](https://github.com/NamRana/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1873-longest-nice-substring](https://github.com/NamRana/Leetcode/tree/master/1873-longest-nice-substring) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NamRana/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2128-reverse-prefix-of-word](https://github.com/NamRana/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/NamRana/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/NamRana/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
