@@ -21,6 +21,7 @@ Leetcode solutions
 | [0713-subarray-product-less-than-k](https://github.com/NamRana/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/NamRana/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0749-shortest-completing-word](https://github.com/NamRana/Leetcode/tree/master/0749-shortest-completing-word) |
+| [0822-unique-morse-code-words](https://github.com/NamRana/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0830-largest-triangle-area](https://github.com/NamRana/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0831-largest-sum-of-averages](https://github.com/NamRana/Leetcode/tree/master/0831-largest-sum-of-averages) |
 | [0837-most-common-word](https://github.com/NamRana/Leetcode/tree/master/0837-most-common-word) |
@@ -54,6 +55,7 @@ Leetcode solutions
 | [0599-minimum-index-sum-of-two-lists](https://github.com/NamRana/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0749-shortest-completing-word](https://github.com/NamRana/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/NamRana/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0822-unique-morse-code-words](https://github.com/NamRana/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/NamRana/Leetcode/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/NamRana/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/NamRana/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -137,6 +139,7 @@ Leetcode solutions
 | [0599-minimum-index-sum-of-two-lists](https://github.com/NamRana/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0749-shortest-completing-word](https://github.com/NamRana/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/NamRana/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0822-unique-morse-code-words](https://github.com/NamRana/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/NamRana/Leetcode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/NamRana/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/NamRana/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
