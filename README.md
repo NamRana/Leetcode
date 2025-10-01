@@ -48,6 +48,7 @@ Leetcode solutions
 | [3704-count-partitions-with-even-sum-difference](https://github.com/NamRana/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3973-flip-square-submatrix-vertically](https://github.com/NamRana/Leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/NamRana/Leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
+| [4011-smallest-absent-positive-greater-than-average](https://github.com/NamRana/Leetcode/tree/master/4011-smallest-absent-positive-greater-than-average) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ Leetcode solutions
 | [3242-count-elements-with-maximum-frequency](https://github.com/NamRana/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/NamRana/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/NamRana/Leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
+| [4011-smallest-absent-positive-greater-than-average](https://github.com/NamRana/Leetcode/tree/master/4011-smallest-absent-positive-greater-than-average) |
 ## Counting
 |  |
 | ------- |
