@@ -29,6 +29,7 @@ Leetcode solutions
 | [0881-loud-and-rich](https://github.com/NamRana/Leetcode/tree/master/0881-loud-and-rich) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/NamRana/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0965-unique-email-addresses](https://github.com/NamRana/Leetcode/tree/master/0965-unique-email-addresses) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/NamRana/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/NamRana/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1044-find-common-characters](https://github.com/NamRana/Leetcode/tree/master/1044-find-common-characters) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/NamRana/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -61,6 +62,7 @@ Leetcode solutions
 | [0920-uncommon-words-from-two-sentences](https://github.com/NamRana/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/NamRana/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0965-unique-email-addresses](https://github.com/NamRana/Leetcode/tree/master/0965-unique-email-addresses) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/NamRana/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/NamRana/Leetcode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/NamRana/Leetcode/tree/master/1217-relative-sort-array) |
 | [1873-longest-nice-substring](https://github.com/NamRana/Leetcode/tree/master/1873-longest-nice-substring) |
