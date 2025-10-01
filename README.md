@@ -39,6 +39,7 @@ Leetcode solutions
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NamRana/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/NamRana/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/NamRana/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/NamRana/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NamRana/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/NamRana/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/NamRana/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -81,6 +82,7 @@ Leetcode solutions
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NamRana/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/NamRana/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/NamRana/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/NamRana/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1873-longest-nice-substring](https://github.com/NamRana/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NamRana/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/NamRana/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -105,6 +107,7 @@ Leetcode solutions
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/NamRana/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/NamRana/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NamRana/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/NamRana/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NamRana/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/NamRana/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NamRana/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -189,6 +192,7 @@ Leetcode solutions
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/NamRana/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1454-remove-palindromic-subsequences](https://github.com/NamRana/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/NamRana/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/NamRana/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1873-longest-nice-substring](https://github.com/NamRana/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NamRana/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2128-reverse-prefix-of-word](https://github.com/NamRana/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -223,6 +227,7 @@ Leetcode solutions
 | ------- |
 | [0090-subsets-ii](https://github.com/NamRana/Leetcode/tree/master/0090-subsets-ii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/NamRana/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/NamRana/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1873-longest-nice-substring](https://github.com/NamRana/Leetcode/tree/master/1873-longest-nice-substring) |
 ## Matrix
 |  |
