@@ -46,6 +46,7 @@ Leetcode solutions
 | [3242-count-elements-with-maximum-frequency](https://github.com/NamRana/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3463-alternating-groups-i](https://github.com/NamRana/Leetcode/tree/master/3463-alternating-groups-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/NamRana/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/NamRana/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3934-coupon-code-validator](https://github.com/NamRana/Leetcode/tree/master/3934-coupon-code-validator) |
 | [3973-flip-square-submatrix-vertically](https://github.com/NamRana/Leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 | [3994-find-the-least-frequent-digit](https://github.com/NamRana/Leetcode/tree/master/3994-find-the-least-frequent-digit) |
@@ -80,6 +81,7 @@ Leetcode solutions
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/NamRana/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NamRana/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/NamRana/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/NamRana/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3934-coupon-code-validator](https://github.com/NamRana/Leetcode/tree/master/3934-coupon-code-validator) |
 | [3994-find-the-least-frequent-digit](https://github.com/NamRana/Leetcode/tree/master/3994-find-the-least-frequent-digit) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/NamRana/Leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
@@ -97,6 +99,7 @@ Leetcode solutions
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NamRana/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/NamRana/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NamRana/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/NamRana/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3994-find-the-least-frequent-digit](https://github.com/NamRana/Leetcode/tree/master/3994-find-the-least-frequent-digit) |
 ## Sliding Window
 |  |
@@ -135,6 +138,7 @@ Leetcode solutions
 | [1642-water-bottles](https://github.com/NamRana/Leetcode/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/NamRana/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/NamRana/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/NamRana/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3994-find-the-least-frequent-digit](https://github.com/NamRana/Leetcode/tree/master/3994-find-the-least-frequent-digit) |
 ## Two Pointers
 |  |
@@ -341,4 +345,5 @@ Leetcode solutions
 |  |
 | ------- |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/NamRana/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/NamRana/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->
