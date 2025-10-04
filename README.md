@@ -6,6 +6,7 @@ Leetcode solutions
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/NamRana/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/NamRana/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0090-subsets-ii](https://github.com/NamRana/Leetcode/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/NamRana/Leetcode/tree/master/0120-triangle) |
@@ -163,6 +164,7 @@ Leetcode solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/NamRana/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/NamRana/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0165-compare-version-numbers](https://github.com/NamRana/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/NamRana/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -252,6 +254,7 @@ Leetcode solutions
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/NamRana/Leetcode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/NamRana/Leetcode/tree/master/0179-largest-number) |
 | [0611-valid-triangle-number](https://github.com/NamRana/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/NamRana/Leetcode/tree/master/1018-largest-perimeter-triangle) |
