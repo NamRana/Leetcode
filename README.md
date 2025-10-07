@@ -42,6 +42,7 @@ Leetcode solutions
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NamRana/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NamRana/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/NamRana/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/NamRana/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/NamRana/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NamRana/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NamRana/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -84,6 +85,7 @@ Leetcode solutions
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NamRana/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/NamRana/Leetcode/tree/master/1500-count-largest-group) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NamRana/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1612-avoid-flood-in-the-city](https://github.com/NamRana/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/NamRana/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/NamRana/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NamRana/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -262,6 +264,7 @@ Leetcode solutions
 | [0179-largest-number](https://github.com/NamRana/Leetcode/tree/master/0179-largest-number) |
 | [0611-valid-triangle-number](https://github.com/NamRana/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/NamRana/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1612-avoid-flood-in-the-city](https://github.com/NamRana/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/NamRana/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/NamRana/Leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Depth-First Search
@@ -293,6 +296,7 @@ Leetcode solutions
 | [0611-valid-triangle-number](https://github.com/NamRana/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/NamRana/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0794-swim-in-rising-water](https://github.com/NamRana/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/NamRana/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 ## Geometry
 |  |
 | ------- |
@@ -310,6 +314,7 @@ Leetcode solutions
 | [0744-network-delay-time](https://github.com/NamRana/Leetcode/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/NamRana/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/NamRana/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/NamRana/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/NamRana/Leetcode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Divide and Conquer
 |  |
