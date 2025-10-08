@@ -49,6 +49,7 @@ Leetcode solutions
 | [2190-count-common-words-with-one-occurrence](https://github.com/NamRana/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/NamRana/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/NamRana/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/NamRana/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/NamRana/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/NamRana/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NamRana/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -146,6 +147,7 @@ Leetcode solutions
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/NamRana/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/NamRana/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NamRana/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/NamRana/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/NamRana/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/NamRana/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3934-coupon-code-validator](https://github.com/NamRana/Leetcode/tree/master/3934-coupon-code-validator) |
@@ -176,6 +178,7 @@ Leetcode solutions
 | [1454-remove-palindromic-subsequences](https://github.com/NamRana/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [2128-reverse-prefix-of-word](https://github.com/NamRana/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/NamRana/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/NamRana/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/NamRana/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3973-flip-square-submatrix-vertically](https://github.com/NamRana/Leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 ## String
@@ -297,6 +300,7 @@ Leetcode solutions
 | [0713-subarray-product-less-than-k](https://github.com/NamRana/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0794-swim-in-rising-water](https://github.com/NamRana/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/NamRana/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/NamRana/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Geometry
 |  |
 | ------- |
