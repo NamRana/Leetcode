@@ -217,6 +217,7 @@ Leetcode solutions
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/NamRana/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1454-remove-palindromic-subsequences](https://github.com/NamRana/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/NamRana/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/NamRana/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1764-maximum-repeating-substring](https://github.com/NamRana/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NamRana/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1873-longest-nice-substring](https://github.com/NamRana/Leetcode/tree/master/1873-longest-nice-substring) |
@@ -309,6 +310,7 @@ Leetcode solutions
 | [1005-univalued-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/NamRana/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/NamRana/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/NamRana/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2121-find-if-path-exists-in-graph](https://github.com/NamRana/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Counting Sort
 |  |
@@ -373,6 +375,7 @@ Leetcode solutions
 | [0794-swim-in-rising-water](https://github.com/NamRana/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0871-keys-and-rooms](https://github.com/NamRana/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1005-univalued-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/NamRana/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2121-find-if-path-exists-in-graph](https://github.com/NamRana/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
@@ -436,6 +439,7 @@ Leetcode solutions
 ## Enumeration
 |  |
 | ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/NamRana/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3799-unique-3-digit-even-numbers](https://github.com/NamRana/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Monotonic Stack
 |  |
