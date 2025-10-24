@@ -103,6 +103,7 @@ Leetcode solutions
 | [1873-longest-nice-substring](https://github.com/NamRana/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/NamRana/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NamRana/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/NamRana/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/NamRana/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/NamRana/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/NamRana/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -127,6 +128,7 @@ Leetcode solutions
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NamRana/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NamRana/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NamRana/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/NamRana/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/NamRana/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NamRana/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/NamRana/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -178,6 +180,7 @@ Leetcode solutions
 | [1018-largest-perimeter-triangle](https://github.com/NamRana/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1500-count-largest-group](https://github.com/NamRana/Leetcode/tree/master/1500-count-largest-group) |
 | [1642-water-bottles](https://github.com/NamRana/Leetcode/tree/master/1642-water-bottles) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/NamRana/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/NamRana/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/NamRana/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/NamRana/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -260,6 +263,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/NamRana/Leetcode/tree/master/0090-subsets-ii) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/NamRana/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -450,6 +454,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/NamRana/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/NamRana/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3799-unique-3-digit-even-numbers](https://github.com/NamRana/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Monotonic Stack
 |  |
