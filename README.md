@@ -187,6 +187,7 @@ Leetcode solutions
 | [2174-next-greater-numerically-balanced-number](https://github.com/NamRana/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/NamRana/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/NamRana/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/NamRana/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/NamRana/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/NamRana/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/NamRana/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -278,6 +279,7 @@ Leetcode solutions
 | [1786-count-the-number-of-consistent-strings](https://github.com/NamRana/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1873-longest-nice-substring](https://github.com/NamRana/Leetcode/tree/master/1873-longest-nice-substring) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/NamRana/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/NamRana/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/NamRana/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Matrix
 |  |
