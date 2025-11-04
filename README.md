@@ -60,6 +60,7 @@ Leetcode solutions
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/NamRana/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3463-alternating-groups-i](https://github.com/NamRana/Leetcode/tree/master/3463-alternating-groups-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/NamRana/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/NamRana/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/NamRana/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/NamRana/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/NamRana/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -116,6 +117,7 @@ Leetcode solutions
 | [3242-count-elements-with-maximum-frequency](https://github.com/NamRana/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/NamRana/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/NamRana/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/NamRana/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/NamRana/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/NamRana/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/NamRana/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -153,6 +155,7 @@ Leetcode solutions
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/NamRana/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3463-alternating-groups-i](https://github.com/NamRana/Leetcode/tree/master/3463-alternating-groups-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/NamRana/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/NamRana/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/NamRana/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/NamRana/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Sorting
@@ -378,6 +381,7 @@ Leetcode solutions
 | [0794-swim-in-rising-water](https://github.com/NamRana/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/NamRana/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/NamRana/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/NamRana/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/NamRana/Leetcode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Divide and Conquer
 |  |
