@@ -6,6 +6,7 @@ Leetcode solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/NamRana/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/NamRana/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/NamRana/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0090-subsets-ii](https://github.com/NamRana/Leetcode/tree/master/0090-subsets-ii) |
@@ -80,6 +81,7 @@ Leetcode solutions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/NamRana/Leetcode/tree/master/0001-two-sum) |
 | [0166-fraction-to-recurring-decimal](https://github.com/NamRana/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0383-ransom-note](https://github.com/NamRana/Leetcode/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NamRana/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
