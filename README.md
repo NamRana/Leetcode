@@ -34,6 +34,7 @@ Leetcode solutions
 | [0881-loud-and-rich](https://github.com/NamRana/Leetcode/tree/master/0881-loud-and-rich) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/NamRana/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0965-unique-email-addresses](https://github.com/NamRana/Leetcode/tree/master/0965-unique-email-addresses) |
+| [0966-binary-subarrays-with-sum](https://github.com/NamRana/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/NamRana/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/NamRana/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1044-find-common-characters](https://github.com/NamRana/Leetcode/tree/master/1044-find-common-characters) |
@@ -99,6 +100,7 @@ Leetcode solutions
 | [0920-uncommon-words-from-two-sentences](https://github.com/NamRana/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/NamRana/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0965-unique-email-addresses](https://github.com/NamRana/Leetcode/tree/master/0965-unique-email-addresses) |
+| [0966-binary-subarrays-with-sum](https://github.com/NamRana/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/NamRana/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/NamRana/Leetcode/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/NamRana/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -155,6 +157,7 @@ Leetcode solutions
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/NamRana/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/NamRana/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/NamRana/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1873-longest-nice-substring](https://github.com/NamRana/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NamRana/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NamRana/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -382,6 +385,7 @@ Leetcode solutions
 | [0560-subarray-sum-equals-k](https://github.com/NamRana/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/NamRana/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0831-largest-sum-of-averages](https://github.com/NamRana/Leetcode/tree/master/0831-largest-sum-of-averages) |
+| [0966-binary-subarrays-with-sum](https://github.com/NamRana/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/NamRana/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/NamRana/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/NamRana/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
