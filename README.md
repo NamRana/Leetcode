@@ -152,6 +152,7 @@ Leetcode solutions
 | [2174-next-greater-numerically-balanced-number](https://github.com/NamRana/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/NamRana/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NamRana/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/NamRana/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/NamRana/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/NamRana/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3994-find-the-least-frequent-digit](https://github.com/NamRana/Leetcode/tree/master/3994-find-the-least-frequent-digit) |
@@ -267,6 +268,7 @@ Leetcode solutions
 | [2190-count-common-words-with-one-occurrence](https://github.com/NamRana/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/NamRana/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/NamRana/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/NamRana/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/NamRana/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/NamRana/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3934-coupon-code-validator](https://github.com/NamRana/Leetcode/tree/master/3934-coupon-code-validator) |
@@ -340,6 +342,7 @@ Leetcode solutions
 | [1612-avoid-flood-in-the-city](https://github.com/NamRana/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/NamRana/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/NamRana/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/NamRana/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/NamRana/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/NamRana/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/NamRana/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
