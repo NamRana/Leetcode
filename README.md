@@ -59,6 +59,7 @@ Leetcode solutions
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/NamRana/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/NamRana/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/NamRana/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/NamRana/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/NamRana/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NamRana/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/NamRana/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -317,6 +318,7 @@ Leetcode solutions
 | [0417-pacific-atlantic-water-flow](https://github.com/NamRana/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/NamRana/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/NamRana/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2625-increment-submatrices-by-one](https://github.com/NamRana/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3973-flip-square-submatrix-vertically](https://github.com/NamRana/Leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
@@ -397,6 +399,7 @@ Leetcode solutions
 | [0831-largest-sum-of-averages](https://github.com/NamRana/Leetcode/tree/master/0831-largest-sum-of-averages) |
 | [0966-binary-subarrays-with-sum](https://github.com/NamRana/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/NamRana/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/NamRana/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/NamRana/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/NamRana/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/NamRana/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
