@@ -170,6 +170,7 @@ Leetcode solutions
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/NamRana/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/NamRana/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3463-alternating-groups-i](https://github.com/NamRana/Leetcode/tree/master/3463-alternating-groups-i) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/NamRana/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/NamRana/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/NamRana/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/NamRana/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -269,6 +270,7 @@ Leetcode solutions
 | [2190-count-common-words-with-one-occurrence](https://github.com/NamRana/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/NamRana/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/NamRana/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/NamRana/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/NamRana/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/NamRana/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/NamRana/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -515,6 +517,7 @@ Leetcode solutions
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/NamRana/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/NamRana/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/NamRana/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3799-unique-3-digit-even-numbers](https://github.com/NamRana/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Monotonic Stack
 |  |
