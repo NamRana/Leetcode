@@ -205,6 +205,7 @@ Leetcode solutions
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/NamRana/Leetcode/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/NamRana/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0598-range-addition-ii](https://github.com/NamRana/Leetcode/tree/master/0598-range-addition-ii) |
 | [0830-largest-triangle-area](https://github.com/NamRana/Leetcode/tree/master/0830-largest-triangle-area) |
@@ -333,6 +334,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NamRana/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/NamRana/Leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/NamRana/Leetcode/tree/master/0120-triangle) |
 | [0474-ones-and-zeroes](https://github.com/NamRana/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0831-largest-sum-of-averages](https://github.com/NamRana/Leetcode/tree/master/0831-largest-sum-of-averages) |
@@ -552,5 +554,6 @@ Leetcode solutions
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/NamRana/Leetcode/tree/master/0070-climbing-stairs) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/NamRana/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 <!---LeetCode Topics End-->
