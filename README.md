@@ -235,6 +235,7 @@ Leetcode solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/NamRana/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/NamRana/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/NamRana/Leetcode/tree/master/0061-rotate-list) |
 | [0165-compare-version-numbers](https://github.com/NamRana/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/NamRana/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0841-shortest-distance-to-a-character](https://github.com/NamRana/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
@@ -569,4 +570,8 @@ Leetcode solutions
 | ------- |
 | [0070-climbing-stairs](https://github.com/NamRana/Leetcode/tree/master/0070-climbing-stairs) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/NamRana/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/NamRana/Leetcode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
