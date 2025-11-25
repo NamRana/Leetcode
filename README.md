@@ -120,6 +120,7 @@ Leetcode solutions
 | [0965-unique-email-addresses](https://github.com/NamRana/Leetcode/tree/master/0965-unique-email-addresses) |
 | [0966-binary-subarrays-with-sum](https://github.com/NamRana/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/NamRana/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/NamRana/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/NamRana/Leetcode/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/NamRana/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/NamRana/Leetcode/tree/master/1217-relative-sort-array) |
@@ -228,6 +229,7 @@ Leetcode solutions
 | [0598-range-addition-ii](https://github.com/NamRana/Leetcode/tree/master/0598-range-addition-ii) |
 | [0830-largest-triangle-area](https://github.com/NamRana/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/NamRana/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/NamRana/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/NamRana/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1500-count-largest-group](https://github.com/NamRana/Leetcode/tree/master/1500-count-largest-group) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/NamRana/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
