@@ -43,6 +43,7 @@ Leetcode solutions
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/NamRana/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0965-unique-email-addresses](https://github.com/NamRana/Leetcode/tree/master/0965-unique-email-addresses) |
 | [0966-binary-subarrays-with-sum](https://github.com/NamRana/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [0986-interval-list-intersections](https://github.com/NamRana/Leetcode/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/NamRana/Leetcode/tree/master/0994-rotting-oranges) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/NamRana/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/NamRana/Leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -265,6 +266,7 @@ Leetcode solutions
 | [0165-compare-version-numbers](https://github.com/NamRana/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/NamRana/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0841-shortest-distance-to-a-character](https://github.com/NamRana/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0986-interval-list-intersections](https://github.com/NamRana/Leetcode/tree/master/0986-interval-list-intersections) |
 | [1454-remove-palindromic-subsequences](https://github.com/NamRana/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [2128-reverse-prefix-of-word](https://github.com/NamRana/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/NamRana/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -628,4 +630,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/NamRana/Leetcode/tree/master/0061-rotate-list) |
+## Line Sweep
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/NamRana/Leetcode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
