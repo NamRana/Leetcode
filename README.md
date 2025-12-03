@@ -119,6 +119,7 @@ Leetcode solutions
 | [0599-minimum-index-sum-of-two-lists](https://github.com/NamRana/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/NamRana/Leetcode/tree/master/0621-task-scheduler) |
 | [0749-shortest-completing-word](https://github.com/NamRana/Leetcode/tree/master/0749-shortest-completing-word) |
+| [0763-partition-labels](https://github.com/NamRana/Leetcode/tree/master/0763-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/NamRana/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/NamRana/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/NamRana/Leetcode/tree/master/0837-most-common-word) |
@@ -265,6 +266,7 @@ Leetcode solutions
 | [0061-rotate-list](https://github.com/NamRana/Leetcode/tree/master/0061-rotate-list) |
 | [0165-compare-version-numbers](https://github.com/NamRana/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/NamRana/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0763-partition-labels](https://github.com/NamRana/Leetcode/tree/master/0763-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/NamRana/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0986-interval-list-intersections](https://github.com/NamRana/Leetcode/tree/master/0986-interval-list-intersections) |
 | [1454-remove-palindromic-subsequences](https://github.com/NamRana/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
@@ -289,6 +291,7 @@ Leetcode solutions
 | [0599-minimum-index-sum-of-two-lists](https://github.com/NamRana/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0678-valid-parenthesis-string](https://github.com/NamRana/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0749-shortest-completing-word](https://github.com/NamRana/Leetcode/tree/master/0749-shortest-completing-word) |
+| [0763-partition-labels](https://github.com/NamRana/Leetcode/tree/master/0763-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/NamRana/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/NamRana/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/NamRana/Leetcode/tree/master/0837-most-common-word) |
@@ -402,6 +405,7 @@ Leetcode solutions
 | [0621-task-scheduler](https://github.com/NamRana/Leetcode/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/NamRana/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0759-set-intersection-size-at-least-two](https://github.com/NamRana/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0763-partition-labels](https://github.com/NamRana/Leetcode/tree/master/0763-partition-labels) |
 | [1018-largest-perimeter-triangle](https://github.com/NamRana/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/NamRana/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1612-avoid-flood-in-the-city](https://github.com/NamRana/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
