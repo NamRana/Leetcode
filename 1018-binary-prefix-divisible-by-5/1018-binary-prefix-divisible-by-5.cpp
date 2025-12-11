@@ -9,6 +9,6 @@ public:
 
             ans.push_back(cur==0);
         }
-    return ans;
+        return ans;
     }
 };
