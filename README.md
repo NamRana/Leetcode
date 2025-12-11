@@ -48,6 +48,7 @@ Leetcode solutions
 | [0994-rotting-oranges](https://github.com/NamRana/Leetcode/tree/master/0994-rotting-oranges) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/NamRana/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/NamRana/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/NamRana/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1044-find-common-characters](https://github.com/NamRana/Leetcode/tree/master/1044-find-common-characters) |
 | [1046-last-stone-weight](https://github.com/NamRana/Leetcode/tree/master/1046-last-stone-weight) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/NamRana/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -369,6 +370,7 @@ Leetcode solutions
 | ------- |
 | [0090-subsets-ii](https://github.com/NamRana/Leetcode/tree/master/0090-subsets-ii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/NamRana/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/NamRana/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/NamRana/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NamRana/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1873-longest-nice-substring](https://github.com/NamRana/Leetcode/tree/master/1873-longest-nice-substring) |
