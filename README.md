@@ -328,6 +328,7 @@ Leetcode solutions
 | [2128-reverse-prefix-of-word](https://github.com/NamRana/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/NamRana/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/NamRana/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [3136-valid-word](https://github.com/NamRana/Leetcode/tree/master/3136-valid-word) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/NamRana/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/NamRana/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/NamRana/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
