@@ -22,14 +22,13 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* dummy= new ListNode(0);
-        ListNode* cur=dummy;
+        ListNode* dummy=new ListNode(0);
         int carry=0;
+        ListNode* cur=dummy;
 
         while(l1!=nullptr || l2!=nullptr || carry!=0){
-            int sum=carry; 
+            int sum=carry;
 
-            //ading l1 digits 
             if(l1!=nullptr){
                 sum+=l1->val;
                 l1=l1->next;
@@ -40,16 +39,12 @@ public:
                 l2=l2->next;
             }
 
-            //creating new node with the digit part
             cur->next=new ListNode(sum%10);
 
-            //updating carry
             carry=sum/10;
-
-            //move result pointer
+            
             cur=cur->next;
         }
-
         return dummy->next;
-    }
+   }
 };
