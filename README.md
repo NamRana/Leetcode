@@ -67,6 +67,7 @@ Leetcode solutions
 | [1786-count-the-number-of-consistent-strings](https://github.com/NamRana/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/NamRana/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2013-detect-squares](https://github.com/NamRana/Leetcode/tree/master/2013-detect-squares) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/NamRana/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NamRana/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2169-simple-bank-system](https://github.com/NamRana/Leetcode/tree/master/2169-simple-bank-system) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/NamRana/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -260,6 +261,7 @@ Leetcode solutions
 | [1636-number-of-substrings-with-only-1s](https://github.com/NamRana/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/NamRana/Leetcode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/NamRana/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/NamRana/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/NamRana/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/NamRana/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/NamRana/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -413,6 +415,7 @@ Leetcode solutions
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/NamRana/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/NamRana/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1764-maximum-repeating-substring](https://github.com/NamRana/Leetcode/tree/master/1764-maximum-repeating-substring) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/NamRana/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/NamRana/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/NamRana/Leetcode/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/NamRana/Leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
