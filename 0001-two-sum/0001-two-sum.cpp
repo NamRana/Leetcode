@@ -9,7 +9,7 @@ public:
             return {mp[remain],i};
         }
         mp[nums[i]]=i;
-       } 
+       }
        return {};
     }
 };
