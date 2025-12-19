@@ -1,27 +1,24 @@
 class Solution {
 public:
     int maxArea(vector<int>& height) {
-        int left=0,right=height.size()-1;
-        int maxWater=0;
+        int left=0;
+        int right=height.size()-1;
 
-        //moving two pointer towards each other
+        int maxArea=0;
+
         while(left<right){
-            //calculating area between lines left and right
             int width=right-left;
-            int minHeight=min(height[left],height[right]);
-            int area=width*minHeight;
+            int containerHeight=min(height[left],height[right]);
 
-            //updting maximum water found so far
-            maxWater=max(maxWater,area);
+            int currentArea=width*containerHeight;
+            maxArea=max(maxArea,currentArea);
 
-            //moving the pointer to the shorter line inward
             if(height[left]<height[right]){
                 left++;
-            }
-            else{
+            }else{
                 right--;
             }
         }
-        return maxWater;
+        return maxArea;
     }
 };
