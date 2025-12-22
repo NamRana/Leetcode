@@ -9,6 +9,7 @@ Leetcode solutions
 | [0001-two-sum](https://github.com/NamRana/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/NamRana/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/NamRana/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/NamRana/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/NamRana/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0090-subsets-ii](https://github.com/NamRana/Leetcode/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/NamRana/Leetcode/tree/master/0120-triangle) |
@@ -228,6 +229,7 @@ Leetcode solutions
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/NamRana/Leetcode/tree/master/0015-3sum) |
 | [0179-largest-number](https://github.com/NamRana/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/NamRana/Leetcode/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/NamRana/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -288,6 +290,7 @@ Leetcode solutions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NamRana/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/NamRana/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/NamRana/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/NamRana/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/NamRana/Leetcode/tree/master/0061-rotate-list) |
 | [0165-compare-version-numbers](https://github.com/NamRana/Leetcode/tree/master/0165-compare-version-numbers) |
