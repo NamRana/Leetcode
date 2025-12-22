@@ -126,6 +126,7 @@ Leetcode solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/NamRana/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0166-fraction-to-recurring-decimal](https://github.com/NamRana/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/NamRana/Leetcode/tree/master/0217-contains-duplicate) |
+| [0355-design-twitter](https://github.com/NamRana/Leetcode/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/NamRana/Leetcode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/NamRana/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NamRana/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -541,6 +542,7 @@ Leetcode solutions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/NamRana/Leetcode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/NamRana/Leetcode/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/NamRana/Leetcode/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/NamRana/Leetcode/tree/master/0794-swim-in-rising-water) |
@@ -678,6 +680,7 @@ Leetcode solutions
 ## Design
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/NamRana/Leetcode/tree/master/0355-design-twitter) |
 | [2013-detect-squares](https://github.com/NamRana/Leetcode/tree/master/2013-detect-squares) |
 | [2169-simple-bank-system](https://github.com/NamRana/Leetcode/tree/master/2169-simple-bank-system) |
 ## Ordered Set
@@ -701,6 +704,7 @@ Leetcode solutions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NamRana/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/NamRana/Leetcode/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/NamRana/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0355-design-twitter](https://github.com/NamRana/Leetcode/tree/master/0355-design-twitter) |
 ## Line Sweep
 |  |
 | ------- |
