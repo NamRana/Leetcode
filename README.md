@@ -310,6 +310,7 @@ Leetcode solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NamRana/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/NamRana/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/NamRana/Leetcode/tree/master/0022-generate-parentheses) |
 | [0097-interleaving-string](https://github.com/NamRana/Leetcode/tree/master/0097-interleaving-string) |
 | [0165-compare-version-numbers](https://github.com/NamRana/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/NamRana/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -387,6 +388,7 @@ Leetcode solutions
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/NamRana/Leetcode/tree/master/0022-generate-parentheses) |
 | [0090-subsets-ii](https://github.com/NamRana/Leetcode/tree/master/0090-subsets-ii) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/NamRana/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Bit Manipulation
@@ -415,6 +417,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NamRana/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/NamRana/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/NamRana/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/NamRana/Leetcode/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/NamRana/Leetcode/tree/master/0097-interleaving-string) |
