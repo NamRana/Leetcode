@@ -20,6 +20,7 @@ Leetcode solutions
 | [0217-contains-duplicate](https://github.com/NamRana/Leetcode/tree/master/0217-contains-duplicate) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/NamRana/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0318-maximum-product-of-word-lengths](https://github.com/NamRana/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0416-partition-equal-subset-sum](https://github.com/NamRana/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/NamRana/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NamRana/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/NamRana/Leetcode/tree/master/0474-ones-and-zeroes) |
@@ -428,6 +429,7 @@ Leetcode solutions
 | [0120-triangle](https://github.com/NamRana/Leetcode/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/NamRana/Leetcode/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/NamRana/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0416-partition-equal-subset-sum](https://github.com/NamRana/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/NamRana/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/NamRana/Leetcode/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/NamRana/Leetcode/tree/master/0678-valid-parenthesis-string) |
