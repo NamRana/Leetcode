@@ -400,6 +400,7 @@ Leetcode solutions
 | ------- |
 | [0022-generate-parentheses](https://github.com/NamRana/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/NamRana/Leetcode/tree/master/0039-combination-sum) |
+| [0077-combinations](https://github.com/NamRana/Leetcode/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/NamRana/Leetcode/tree/master/0090-subsets-ii) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/NamRana/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Bit Manipulation
