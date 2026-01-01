@@ -13,6 +13,7 @@ Leetcode solutions
 | [0033-search-in-rotated-sorted-array](https://github.com/NamRana/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/NamRana/Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/NamRana/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/NamRana/Leetcode/tree/master/0066-plus-one) |
 | [0090-subsets-ii](https://github.com/NamRana/Leetcode/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/NamRana/Leetcode/tree/master/0120-triangle) |
 | [0179-largest-number](https://github.com/NamRana/Leetcode/tree/master/0179-largest-number) |
@@ -277,6 +278,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/NamRana/Leetcode/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/NamRana/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/NamRana/Leetcode/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/NamRana/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0598-range-addition-ii](https://github.com/NamRana/Leetcode/tree/master/0598-range-addition-ii) |
