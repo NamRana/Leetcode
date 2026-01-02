@@ -52,6 +52,7 @@ Leetcode solutions
 | [0881-loud-and-rich](https://github.com/NamRana/Leetcode/tree/master/0881-loud-and-rich) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/NamRana/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/NamRana/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/NamRana/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0965-unique-email-addresses](https://github.com/NamRana/Leetcode/tree/master/0965-unique-email-addresses) |
 | [0966-binary-subarrays-with-sum](https://github.com/NamRana/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0986-interval-list-intersections](https://github.com/NamRana/Leetcode/tree/master/0986-interval-list-intersections) |
@@ -153,6 +154,7 @@ Leetcode solutions
 | [0840-magic-squares-in-grid](https://github.com/NamRana/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/NamRana/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/NamRana/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/NamRana/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0965-unique-email-addresses](https://github.com/NamRana/Leetcode/tree/master/0965-unique-email-addresses) |
 | [0966-binary-subarrays-with-sum](https://github.com/NamRana/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/NamRana/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
