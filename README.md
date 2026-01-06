@@ -532,6 +532,7 @@ Leetcode solutions
 | [1005-univalued-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/NamRana/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/NamRana/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/NamRana/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2121-find-if-path-exists-in-graph](https://github.com/NamRana/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -638,6 +639,7 @@ Leetcode solutions
 | [0871-keys-and-rooms](https://github.com/NamRana/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/NamRana/Leetcode/tree/master/0994-rotting-oranges) |
 | [1005-univalued-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/NamRana/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2121-find-if-path-exists-in-graph](https://github.com/NamRana/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -668,6 +670,7 @@ Leetcode solutions
 | [1005-univalued-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/NamRana/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/NamRana/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/NamRana/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/NamRana/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -687,6 +690,7 @@ Leetcode solutions
 | [1005-univalued-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/NamRana/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/NamRana/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Hash Function
 |  |
