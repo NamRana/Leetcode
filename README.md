@@ -35,6 +35,7 @@ Leetcode solutions
 | [0599-minimum-index-sum-of-two-lists](https://github.com/NamRana/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0611-valid-triangle-number](https://github.com/NamRana/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/NamRana/Leetcode/tree/master/0621-task-scheduler) |
+| [0654-maximum-binary-tree](https://github.com/NamRana/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/NamRana/Leetcode/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/NamRana/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/NamRana/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -395,6 +396,7 @@ Leetcode solutions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NamRana/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0388-longest-absolute-file-path](https://github.com/NamRana/Leetcode/tree/master/0388-longest-absolute-file-path) |
+| [0654-maximum-binary-tree](https://github.com/NamRana/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/NamRana/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/NamRana/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/NamRana/Leetcode/tree/master/0739-daily-temperatures) |
@@ -617,6 +619,7 @@ Leetcode solutions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NamRana/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/NamRana/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0654-maximum-binary-tree](https://github.com/NamRana/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/NamRana/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1873-longest-nice-substring](https://github.com/NamRana/Leetcode/tree/master/1873-longest-nice-substring) |
 ## Graph
@@ -676,6 +679,7 @@ Leetcode solutions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NamRana/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/NamRana/Leetcode/tree/master/0337-house-robber-iii) |
 | [0572-subtree-of-another-tree](https://github.com/NamRana/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0654-maximum-binary-tree](https://github.com/NamRana/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/NamRana/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/NamRana/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/NamRana/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -704,6 +708,7 @@ Leetcode solutions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NamRana/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/NamRana/Leetcode/tree/master/0337-house-robber-iii) |
 | [0572-subtree-of-another-tree](https://github.com/NamRana/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0654-maximum-binary-tree](https://github.com/NamRana/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/NamRana/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/NamRana/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/NamRana/Leetcode/tree/master/0975-range-sum-of-bst) |
@@ -753,6 +758,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NamRana/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0654-maximum-binary-tree](https://github.com/NamRana/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/NamRana/Leetcode/tree/master/0739-daily-temperatures) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/NamRana/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Bitmask
