@@ -70,6 +70,7 @@ Leetcode solutions
 | [1217-relative-sort-array](https://github.com/NamRana/Leetcode/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NamRana/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/NamRana/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/NamRana/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/NamRana/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NamRana/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/NamRana/Leetcode/tree/master/1390-four-divisors) |
@@ -298,6 +299,7 @@ Leetcode solutions
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/NamRana/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/NamRana/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/NamRana/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1266-minimum-time-visiting-all-points](https://github.com/NamRana/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/NamRana/Leetcode/tree/master/1390-four-divisors) |
 | [1500-count-largest-group](https://github.com/NamRana/Leetcode/tree/master/1500-count-largest-group) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/NamRana/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -585,6 +587,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/NamRana/Leetcode/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/NamRana/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [3623-count-number-of-trapezoids-i](https://github.com/NamRana/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Prefix Sum
 |  |
