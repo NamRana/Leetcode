@@ -109,6 +109,7 @@ Leetcode solutions
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/NamRana/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/NamRana/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3433-count-mentions-per-user](https://github.com/NamRana/Leetcode/tree/master/3433-count-mentions-per-user) |
+| [3453-separate-squares-i](https://github.com/NamRana/Leetcode/tree/master/3453-separate-squares-i) |
 | [3463-alternating-groups-i](https://github.com/NamRana/Leetcode/tree/master/3463-alternating-groups-i) |
 | [3531-count-covered-buildings](https://github.com/NamRana/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/NamRana/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -582,6 +583,7 @@ Leetcode solutions
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/NamRana/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-frog-jump-ii](https://github.com/NamRana/Leetcode/tree/master/2498-frog-jump-ii) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/NamRana/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3453-separate-squares-i](https://github.com/NamRana/Leetcode/tree/master/3453-separate-squares-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/NamRana/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/NamRana/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/NamRana/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
