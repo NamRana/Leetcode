@@ -349,6 +349,7 @@ Leetcode solutions
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/NamRana/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/NamRana/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/NamRana/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/NamRana/Leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3973-flip-square-submatrix-vertically](https://github.com/NamRana/Leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 ## String
 |  |
@@ -405,6 +406,7 @@ Leetcode solutions
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/NamRana/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/NamRana/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/NamRana/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/NamRana/Leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/NamRana/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3934-coupon-code-validator](https://github.com/NamRana/Leetcode/tree/master/3934-coupon-code-validator) |
 ## Stack
@@ -435,6 +437,7 @@ Leetcode solutions
 | [3336-water-bottles-ii](https://github.com/NamRana/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/NamRana/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/NamRana/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/NamRana/Leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/NamRana/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Backtracking
 |  |
