@@ -99,6 +99,7 @@ Leetcode solutions
 | [2324-find-triangular-sum-of-an-array](https://github.com/NamRana/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/NamRana/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/NamRana/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2401-longest-nice-subarray](https://github.com/NamRana/Leetcode/tree/master/2401-longest-nice-subarray) |
 | [2402-meeting-rooms-iii](https://github.com/NamRana/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/NamRana/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2498-frog-jump-ii](https://github.com/NamRana/Leetcode/tree/master/2498-frog-jump-ii) |
@@ -258,6 +259,7 @@ Leetcode solutions
 | [1873-longest-nice-substring](https://github.com/NamRana/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NamRana/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NamRana/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2401-longest-nice-subarray](https://github.com/NamRana/Leetcode/tree/master/2401-longest-nice-subarray) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/NamRana/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2762-continuous-subarrays](https://github.com/NamRana/Leetcode/tree/master/2762-continuous-subarrays) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/NamRana/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
@@ -472,6 +474,7 @@ Leetcode solutions
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/NamRana/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NamRana/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1873-longest-nice-substring](https://github.com/NamRana/Leetcode/tree/master/1873-longest-nice-substring) |
+| [2401-longest-nice-subarray](https://github.com/NamRana/Leetcode/tree/master/2401-longest-nice-subarray) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/NamRana/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/NamRana/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/NamRana/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
