@@ -83,6 +83,7 @@ Leetcode solutions
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/NamRana/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/NamRana/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/NamRana/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/NamRana/Leetcode/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/NamRana/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/NamRana/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NamRana/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -510,6 +511,7 @@ Leetcode solutions
 | [1277-count-square-submatrices-with-all-ones](https://github.com/NamRana/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/NamRana/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/NamRana/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/NamRana/Leetcode/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/NamRana/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/NamRana/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1764-maximum-repeating-substring](https://github.com/NamRana/Leetcode/tree/master/1764-maximum-repeating-substring) |
@@ -693,6 +695,7 @@ Leetcode solutions
 | [1005-univalued-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/NamRana/Leetcode/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/NamRana/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2121-find-if-path-exists-in-graph](https://github.com/NamRana/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/NamRana/Leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
