@@ -90,6 +90,7 @@ Leetcode solutions
 | [1895-largest-magic-square](https://github.com/NamRana/Leetcode/tree/master/1895-largest-magic-square) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/NamRana/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1975-maximum-matrix-sum](https://github.com/NamRana/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NamRana/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2013-detect-squares](https://github.com/NamRana/Leetcode/tree/master/2013-detect-squares) |
 | [2054-two-best-non-overlapping-events](https://github.com/NamRana/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/NamRana/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -294,6 +295,7 @@ Leetcode solutions
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NamRana/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/NamRana/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/NamRana/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NamRana/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/NamRana/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NamRana/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/NamRana/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -413,6 +415,7 @@ Leetcode solutions
 | [1786-count-the-number-of-consistent-strings](https://github.com/NamRana/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1873-longest-nice-substring](https://github.com/NamRana/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/NamRana/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NamRana/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NamRana/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2128-reverse-prefix-of-word](https://github.com/NamRana/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/NamRana/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -672,6 +675,7 @@ Leetcode solutions
 | [1046-last-stone-weight](https://github.com/NamRana/Leetcode/tree/master/1046-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/NamRana/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/NamRana/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NamRana/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/NamRana/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/NamRana/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2762-continuous-subarrays](https://github.com/NamRana/Leetcode/tree/master/2762-continuous-subarrays) |
@@ -687,6 +691,7 @@ Leetcode solutions
 | [0654-maximum-binary-tree](https://github.com/NamRana/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/NamRana/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1873-longest-nice-substring](https://github.com/NamRana/Leetcode/tree/master/1873-longest-nice-substring) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NamRana/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Graph
 |  |
 | ------- |
@@ -899,4 +904,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0792-number-of-matching-subsequences](https://github.com/NamRana/Leetcode/tree/master/0792-number-of-matching-subsequences) |
+## Quickselect
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NamRana/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
