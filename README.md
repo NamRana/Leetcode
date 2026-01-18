@@ -522,6 +522,7 @@ Leetcode solutions
 | [0718-maximum-length-of-repeated-subarray](https://github.com/NamRana/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-number-of-matching-subsequences](https://github.com/NamRana/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0831-largest-sum-of-averages](https://github.com/NamRana/Leetcode/tree/master/0831-largest-sum-of-averages) |
+| [0894-all-possible-full-binary-trees](https://github.com/NamRana/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/NamRana/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1008-binary-tree-cameras](https://github.com/NamRana/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/NamRana/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -749,6 +750,7 @@ Leetcode solutions
 | [0775-n-ary-tree-preorder-traversal](https://github.com/NamRana/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/NamRana/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/NamRana/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0894-all-possible-full-binary-trees](https://github.com/NamRana/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [0933-increasing-order-search-tree](https://github.com/NamRana/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/NamRana/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1005-univalued-binary-tree) |
@@ -776,6 +778,7 @@ Leetcode solutions
 | [0572-subtree-of-another-tree](https://github.com/NamRana/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0654-maximum-binary-tree](https://github.com/NamRana/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/NamRana/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0894-all-possible-full-binary-trees](https://github.com/NamRana/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [0933-increasing-order-search-tree](https://github.com/NamRana/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/NamRana/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1005-univalued-binary-tree) |
@@ -814,6 +817,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/NamRana/Leetcode/tree/master/0002-add-two-numbers) |
+| [0894-all-possible-full-binary-trees](https://github.com/NamRana/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [3799-unique-3-digit-even-numbers](https://github.com/NamRana/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -860,6 +864,7 @@ Leetcode solutions
 | [0070-climbing-stairs](https://github.com/NamRana/Leetcode/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/NamRana/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/NamRana/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0894-all-possible-full-binary-trees](https://github.com/NamRana/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/NamRana/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Linked List
 |  |
