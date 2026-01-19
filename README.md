@@ -56,6 +56,7 @@ Leetcode solutions
 | [0841-shortest-distance-to-a-character](https://github.com/NamRana/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0881-loud-and-rich](https://github.com/NamRana/Leetcode/tree/master/0881-loud-and-rich) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/NamRana/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0954-array-of-doubled-pairs](https://github.com/NamRana/Leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/NamRana/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/NamRana/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0965-unique-email-addresses](https://github.com/NamRana/Leetcode/tree/master/0965-unique-email-addresses) |
@@ -180,6 +181,7 @@ Leetcode solutions
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/NamRana/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/NamRana/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/NamRana/Leetcode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0954-array-of-doubled-pairs](https://github.com/NamRana/Leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/NamRana/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0965-unique-email-addresses](https://github.com/NamRana/Leetcode/tree/master/0965-unique-email-addresses) |
 | [0966-binary-subarrays-with-sum](https://github.com/NamRana/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -290,6 +292,7 @@ Leetcode solutions
 | [0748-largest-number-at-least-twice-of-others](https://github.com/NamRana/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0759-set-intersection-size-at-least-two](https://github.com/NamRana/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0792-number-of-matching-subsequences](https://github.com/NamRana/Leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [0954-array-of-doubled-pairs](https://github.com/NamRana/Leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [1018-largest-perimeter-triangle](https://github.com/NamRana/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1217-relative-sort-array](https://github.com/NamRana/Leetcode/tree/master/1217-relative-sort-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/NamRana/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -566,6 +569,7 @@ Leetcode solutions
 | [0678-valid-parenthesis-string](https://github.com/NamRana/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0759-set-intersection-size-at-least-two](https://github.com/NamRana/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0763-partition-labels](https://github.com/NamRana/Leetcode/tree/master/0763-partition-labels) |
+| [0954-array-of-doubled-pairs](https://github.com/NamRana/Leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [1018-largest-perimeter-triangle](https://github.com/NamRana/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/NamRana/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/NamRana/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
