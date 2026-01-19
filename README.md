@@ -187,6 +187,7 @@ Leetcode solutions
 | [1015-smallest-integer-divisible-by-k](https://github.com/NamRana/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/NamRana/Leetcode/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/NamRana/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/NamRana/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1217-relative-sort-array](https://github.com/NamRana/Leetcode/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NamRana/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NamRana/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -605,6 +606,7 @@ Leetcode solutions
 | [1005-univalued-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/NamRana/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/NamRana/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/NamRana/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/NamRana/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -731,6 +733,7 @@ Leetcode solutions
 | [0886-possible-bipartition](https://github.com/NamRana/Leetcode/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/NamRana/Leetcode/tree/master/0994-rotting-oranges) |
 | [1005-univalued-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/NamRana/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/NamRana/Leetcode/tree/master/1654-minimum-jumps-to-reach-home) |
@@ -770,6 +773,7 @@ Leetcode solutions
 | [1005-univalued-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/NamRana/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/NamRana/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/NamRana/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/NamRana/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -798,6 +802,7 @@ Leetcode solutions
 | [1005-univalued-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/NamRana/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/NamRana/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/NamRana/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/NamRana/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
