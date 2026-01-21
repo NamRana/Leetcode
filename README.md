@@ -126,6 +126,7 @@ Leetcode solutions
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NamRana/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NamRana/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/NamRana/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/NamRana/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/NamRana/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/NamRana/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3433-count-mentions-per-user](https://github.com/NamRana/Leetcode/tree/master/3433-count-mentions-per-user) |
@@ -504,6 +505,7 @@ Leetcode solutions
 | [2401-longest-nice-subarray](https://github.com/NamRana/Leetcode/tree/master/2401-longest-nice-subarray) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/NamRana/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/NamRana/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/NamRana/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/NamRana/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/NamRana/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Matrix
