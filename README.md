@@ -31,6 +31,7 @@ Leetcode solutions
 | [0474-ones-and-zeroes](https://github.com/NamRana/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/NamRana/Leetcode/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/NamRana/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [0542-01-matrix](https://github.com/NamRana/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/NamRana/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/NamRana/Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/NamRana/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -533,6 +534,7 @@ Leetcode solutions
 | [0085-maximal-rectangle](https://github.com/NamRana/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/NamRana/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/NamRana/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/NamRana/Leetcode/tree/master/0542-01-matrix) |
 | [0794-swim-in-rising-water](https://github.com/NamRana/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/NamRana/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/NamRana/Leetcode/tree/master/0994-rotting-oranges) |
@@ -567,6 +569,7 @@ Leetcode solutions
 | [0516-longest-palindromic-subsequence](https://github.com/NamRana/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/NamRana/Leetcode/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/NamRana/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [0542-01-matrix](https://github.com/NamRana/Leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/NamRana/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/NamRana/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/NamRana/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -772,6 +775,7 @@ Leetcode solutions
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/NamRana/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/NamRana/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/NamRana/Leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0542-01-matrix](https://github.com/NamRana/Leetcode/tree/master/0542-01-matrix) |
 | [0684-redundant-connection](https://github.com/NamRana/Leetcode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/NamRana/Leetcode/tree/master/0744-network-delay-time) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/NamRana/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
