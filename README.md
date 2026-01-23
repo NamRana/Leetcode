@@ -51,6 +51,7 @@ Leetcode solutions
 | [0759-set-intersection-size-at-least-two](https://github.com/NamRana/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0792-number-of-matching-subsequences](https://github.com/NamRana/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0794-swim-in-rising-water](https://github.com/NamRana/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [0817-linked-list-components](https://github.com/NamRana/Leetcode/tree/master/0817-linked-list-components) |
 | [0822-unique-morse-code-words](https://github.com/NamRana/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0830-largest-triangle-area](https://github.com/NamRana/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0831-largest-sum-of-averages](https://github.com/NamRana/Leetcode/tree/master/0831-largest-sum-of-averages) |
@@ -190,6 +191,7 @@ Leetcode solutions
 | [0763-partition-labels](https://github.com/NamRana/Leetcode/tree/master/0763-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/NamRana/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0792-number-of-matching-subsequences](https://github.com/NamRana/Leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [0817-linked-list-components](https://github.com/NamRana/Leetcode/tree/master/0817-linked-list-components) |
 | [0822-unique-morse-code-words](https://github.com/NamRana/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/NamRana/Leetcode/tree/master/0837-most-common-word) |
 | [0840-magic-squares-in-grid](https://github.com/NamRana/Leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -951,6 +953,7 @@ Leetcode solutions
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/NamRana/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0142-linked-list-cycle-ii](https://github.com/NamRana/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0355-design-twitter](https://github.com/NamRana/Leetcode/tree/master/0355-design-twitter) |
+| [0817-linked-list-components](https://github.com/NamRana/Leetcode/tree/master/0817-linked-list-components) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NamRana/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Line Sweep
 |  |
