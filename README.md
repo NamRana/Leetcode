@@ -464,6 +464,7 @@ Leetcode solutions
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/NamRana/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/NamRana/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/NamRana/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NamRana/Leetcode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/NamRana/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3136-valid-word](https://github.com/NamRana/Leetcode/tree/master/3136-valid-word) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/NamRana/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -601,6 +602,7 @@ Leetcode solutions
 | [2054-two-best-non-overlapping-events](https://github.com/NamRana/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/NamRana/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/NamRana/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NamRana/Leetcode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/NamRana/Leetcode/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/NamRana/Leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/NamRana/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -630,6 +632,7 @@ Leetcode solutions
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/NamRana/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/NamRana/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1975-maximum-matrix-sum](https://github.com/NamRana/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NamRana/Leetcode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2498-frog-jump-ii](https://github.com/NamRana/Leetcode/tree/master/2498-frog-jump-ii) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/NamRana/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3074-apple-redistribution-into-boxes](https://github.com/NamRana/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -948,6 +951,7 @@ Leetcode solutions
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/NamRana/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0894-all-possible-full-binary-trees](https://github.com/NamRana/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/NamRana/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NamRana/Leetcode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Linked List
 |  |
 | ------- |
