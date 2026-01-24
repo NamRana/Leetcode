@@ -91,6 +91,7 @@ Leetcode solutions
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NamRana/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/NamRana/Leetcode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/NamRana/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/NamRana/Leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/NamRana/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NamRana/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/NamRana/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -336,6 +337,7 @@ Leetcode solutions
 | [1217-relative-sort-array](https://github.com/NamRana/Leetcode/tree/master/1217-relative-sort-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/NamRana/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NamRana/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/NamRana/Leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NamRana/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/NamRana/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/NamRana/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -423,6 +425,7 @@ Leetcode solutions
 | [0986-interval-list-intersections](https://github.com/NamRana/Leetcode/tree/master/0986-interval-list-intersections) |
 | [1023-camelcase-matching](https://github.com/NamRana/Leetcode/tree/master/1023-camelcase-matching) |
 | [1454-remove-palindromic-subsequences](https://github.com/NamRana/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/NamRana/Leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/NamRana/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2128-reverse-prefix-of-word](https://github.com/NamRana/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NamRana/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
