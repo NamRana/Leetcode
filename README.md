@@ -405,6 +405,7 @@ Leetcode solutions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NamRana/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/NamRana/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/NamRana/Leetcode/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/NamRana/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/NamRana/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/NamRana/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/NamRana/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -994,6 +995,7 @@ Leetcode solutions
 | [0002-add-two-numbers](https://github.com/NamRana/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NamRana/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/NamRana/Leetcode/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/NamRana/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/NamRana/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0142-linked-list-cycle-ii](https://github.com/NamRana/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0355-design-twitter](https://github.com/NamRana/Leetcode/tree/master/0355-design-twitter) |
