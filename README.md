@@ -60,6 +60,7 @@ Leetcode solutions
 | [0837-most-common-word](https://github.com/NamRana/Leetcode/tree/master/0837-most-common-word) |
 | [0840-magic-squares-in-grid](https://github.com/NamRana/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0841-shortest-distance-to-a-character](https://github.com/NamRana/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0845-longest-mountain-in-array](https://github.com/NamRana/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/NamRana/Leetcode/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0881-loud-and-rich](https://github.com/NamRana/Leetcode/tree/master/0881-loud-and-rich) |
 | [0890-find-and-replace-pattern](https://github.com/NamRana/Leetcode/tree/master/0890-find-and-replace-pattern) |
@@ -417,6 +418,7 @@ Leetcode solutions
 | [0611-valid-triangle-number](https://github.com/NamRana/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0763-partition-labels](https://github.com/NamRana/Leetcode/tree/master/0763-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/NamRana/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0845-longest-mountain-in-array](https://github.com/NamRana/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/NamRana/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0986-interval-list-intersections](https://github.com/NamRana/Leetcode/tree/master/0986-interval-list-intersections) |
 | [1023-camelcase-matching](https://github.com/NamRana/Leetcode/tree/master/1023-camelcase-matching) |
@@ -610,6 +612,7 @@ Leetcode solutions
 | [0718-maximum-length-of-repeated-subarray](https://github.com/NamRana/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-number-of-matching-subsequences](https://github.com/NamRana/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0831-largest-sum-of-averages](https://github.com/NamRana/Leetcode/tree/master/0831-largest-sum-of-averages) |
+| [0845-longest-mountain-in-array](https://github.com/NamRana/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/NamRana/Leetcode/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0894-all-possible-full-binary-trees](https://github.com/NamRana/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/NamRana/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -949,6 +952,7 @@ Leetcode solutions
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/NamRana/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/NamRana/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/NamRana/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2708-maximum-strength-of-a-group](https://github.com/NamRana/Leetcode/tree/master/2708-maximum-strength-of-a-group) |
