@@ -613,6 +613,7 @@ Leetcode solutions
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/NamRana/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1764-maximum-repeating-substring](https://github.com/NamRana/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/NamRana/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/NamRana/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2054-two-best-non-overlapping-events](https://github.com/NamRana/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2063-vowels-of-all-substrings](https://github.com/NamRana/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/NamRana/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -802,6 +803,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/NamRana/Leetcode/tree/master/0744-network-delay-time) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/NamRana/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/NamRana/Leetcode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Breadth-First Search
 |  |
@@ -842,6 +844,7 @@ Leetcode solutions
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/NamRana/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0881-loud-and-rich](https://github.com/NamRana/Leetcode/tree/master/0881-loud-and-rich) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/NamRana/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Tree
 |  |
 | ------- |
@@ -1024,6 +1027,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0886-possible-bipartition](https://github.com/NamRana/Leetcode/tree/master/0886-possible-bipartition) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/NamRana/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3543-maximum-weighted-k-edge-path](https://github.com/NamRana/Leetcode/tree/master/3543-maximum-weighted-k-edge-path) |
 ## Doubly-Linked List
 |  |
