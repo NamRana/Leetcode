@@ -125,6 +125,7 @@ Leetcode solutions
 | [2625-increment-submatrices-by-one](https://github.com/NamRana/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2708-maximum-strength-of-a-group](https://github.com/NamRana/Leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2762-continuous-subarrays](https://github.com/NamRana/Leetcode/tree/master/2762-continuous-subarrays) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/NamRana/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/NamRana/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/NamRana/Leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/NamRana/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -625,6 +626,7 @@ Leetcode solutions
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/NamRana/Leetcode/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/NamRana/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2708-maximum-strength-of-a-group](https://github.com/NamRana/Leetcode/tree/master/2708-maximum-strength-of-a-group) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/NamRana/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/NamRana/Leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/NamRana/Leetcode/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/NamRana/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
