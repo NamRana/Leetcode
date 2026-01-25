@@ -812,6 +812,7 @@ Leetcode solutions
 | [2762-continuous-subarrays](https://github.com/NamRana/Leetcode/tree/master/2762-continuous-subarrays) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NamRana/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/NamRana/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/NamRana/Leetcode/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/NamRana/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/NamRana/Leetcode/tree/master/3863-power-grid-maintenance) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/NamRana/Leetcode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
@@ -841,6 +842,7 @@ Leetcode solutions
 | ------- |
 | [0744-network-delay-time](https://github.com/NamRana/Leetcode/tree/master/0744-network-delay-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/NamRana/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/NamRana/Leetcode/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/NamRana/Leetcode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Breadth-First Search
 |  |
@@ -1077,6 +1079,7 @@ Leetcode solutions
 | [0886-possible-bipartition](https://github.com/NamRana/Leetcode/tree/master/0886-possible-bipartition) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/NamRana/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3543-maximum-weighted-k-edge-path](https://github.com/NamRana/Leetcode/tree/master/3543-maximum-weighted-k-edge-path) |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/NamRana/Leetcode/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 ## Doubly-Linked List
 |  |
 | ------- |
