@@ -95,6 +95,7 @@ Leetcode solutions
 | [1471-the-k-strongest-values-in-an-array](https://github.com/NamRana/Leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NamRana/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/NamRana/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1534-count-good-triplets](https://github.com/NamRana/Leetcode/tree/master/1534-count-good-triplets) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NamRana/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NamRana/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/NamRana/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -995,6 +996,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/NamRana/Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [1534-count-good-triplets](https://github.com/NamRana/Leetcode/tree/master/1534-count-good-triplets) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/NamRana/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/NamRana/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2708-maximum-strength-of-a-group](https://github.com/NamRana/Leetcode/tree/master/2708-maximum-strength-of-a-group) |
