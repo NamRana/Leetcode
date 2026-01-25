@@ -494,6 +494,7 @@ Leetcode solutions
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/NamRana/Leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NamRana/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/NamRana/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1446-consecutive-characters](https://github.com/NamRana/Leetcode/tree/master/1446-consecutive-characters) |
 | [1454-remove-palindromic-subsequences](https://github.com/NamRana/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/NamRana/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/NamRana/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
