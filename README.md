@@ -537,6 +537,7 @@ Leetcode solutions
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/NamRana/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/NamRana/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/NamRana/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2278-percentage-of-letter-in-string](https://github.com/NamRana/Leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NamRana/Leetcode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/NamRana/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/NamRana/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
