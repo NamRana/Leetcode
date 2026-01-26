@@ -127,6 +127,7 @@ Leetcode solutions
 | [2324-find-triangular-sum-of-an-array](https://github.com/NamRana/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/NamRana/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/NamRana/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/NamRana/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2401-longest-nice-subarray](https://github.com/NamRana/Leetcode/tree/master/2401-longest-nice-subarray) |
 | [2402-meeting-rooms-iii](https://github.com/NamRana/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/NamRana/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -253,6 +254,7 @@ Leetcode solutions
 | [2186-count-vowel-substrings-of-a-string](https://github.com/NamRana/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/NamRana/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2351-first-letter-to-appear-twice](https://github.com/NamRana/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/NamRana/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2402-meeting-rooms-iii](https://github.com/NamRana/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/NamRana/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/NamRana/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
