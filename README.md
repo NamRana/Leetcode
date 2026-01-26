@@ -431,6 +431,7 @@ Leetcode solutions
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/NamRana/Leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NamRana/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/NamRana/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2864-maximum-odd-binary-number](https://github.com/NamRana/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/NamRana/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NamRana/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3336-water-bottles-ii](https://github.com/NamRana/Leetcode/tree/master/3336-water-bottles-ii) |
@@ -543,6 +544,7 @@ Leetcode solutions
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NamRana/Leetcode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/NamRana/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/NamRana/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2864-maximum-odd-binary-number](https://github.com/NamRana/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3136-valid-word](https://github.com/NamRana/Leetcode/tree/master/3136-valid-word) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/NamRana/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/NamRana/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -738,6 +740,7 @@ Leetcode solutions
 | [2498-frog-jump-ii](https://github.com/NamRana/Leetcode/tree/master/2498-frog-jump-ii) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/NamRana/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2708-maximum-strength-of-a-group](https://github.com/NamRana/Leetcode/tree/master/2708-maximum-strength-of-a-group) |
+| [2864-maximum-odd-binary-number](https://github.com/NamRana/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/NamRana/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/NamRana/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/NamRana/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
