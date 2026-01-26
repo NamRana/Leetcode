@@ -81,6 +81,7 @@ Leetcode solutions
 | [1046-last-stone-weight](https://github.com/NamRana/Leetcode/tree/master/1046-last-stone-weight) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/NamRana/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/NamRana/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1200-minimum-absolute-difference](https://github.com/NamRana/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1217-relative-sort-array](https://github.com/NamRana/Leetcode/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NamRana/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/NamRana/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -358,6 +359,7 @@ Leetcode solutions
 | [0922-sort-array-by-parity-ii](https://github.com/NamRana/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0954-array-of-doubled-pairs](https://github.com/NamRana/Leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [1018-largest-perimeter-triangle](https://github.com/NamRana/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1200-minimum-absolute-difference](https://github.com/NamRana/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1217-relative-sort-array](https://github.com/NamRana/Leetcode/tree/master/1217-relative-sort-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/NamRana/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NamRana/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
