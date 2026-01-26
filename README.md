@@ -189,6 +189,7 @@ Leetcode solutions
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/NamRana/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3693-climbing-stairs-ii](https://github.com/NamRana/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/NamRana/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3745-maximize-expression-of-three-elements](https://github.com/NamRana/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/NamRana/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/NamRana/Leetcode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3799-unique-3-digit-even-numbers](https://github.com/NamRana/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
@@ -400,6 +401,7 @@ Leetcode solutions
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/NamRana/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/NamRana/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/NamRana/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3745-maximize-expression-of-three-elements](https://github.com/NamRana/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/NamRana/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3934-coupon-code-validator](https://github.com/NamRana/Leetcode/tree/master/3934-coupon-code-validator) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/NamRana/Leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
@@ -760,6 +762,7 @@ Leetcode solutions
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/NamRana/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/NamRana/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/NamRana/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3745-maximize-expression-of-three-elements](https://github.com/NamRana/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/NamRana/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/NamRana/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/NamRana/Leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
@@ -1053,6 +1056,7 @@ Leetcode solutions
 | [2708-maximum-strength-of-a-group](https://github.com/NamRana/Leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/NamRana/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/NamRana/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3745-maximize-expression-of-three-elements](https://github.com/NamRana/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3799-unique-3-digit-even-numbers](https://github.com/NamRana/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Monotonic Stack
 |  |
