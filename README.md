@@ -520,6 +520,7 @@ Leetcode solutions
 | [1764-maximum-repeating-substring](https://github.com/NamRana/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1768-merge-strings-alternately](https://github.com/NamRana/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NamRana/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1844-replace-all-digits-with-characters](https://github.com/NamRana/Leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [1873-longest-nice-substring](https://github.com/NamRana/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/NamRana/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NamRana/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
