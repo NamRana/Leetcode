@@ -152,6 +152,7 @@ Leetcode solutions
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/NamRana/Leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/NamRana/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/NamRana/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/NamRana/Leetcode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3046-split-the-array](https://github.com/NamRana/Leetcode/tree/master/3046-split-the-array) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/NamRana/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/NamRana/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
