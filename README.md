@@ -389,6 +389,7 @@ Leetcode solutions
 | [2402-meeting-rooms-iii](https://github.com/NamRana/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/NamRana/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/NamRana/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2578-split-with-minimum-sum](https://github.com/NamRana/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/NamRana/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2708-maximum-strength-of-a-group](https://github.com/NamRana/Leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/NamRana/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -434,6 +435,7 @@ Leetcode solutions
 | [2324-find-triangular-sum-of-an-array](https://github.com/NamRana/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/NamRana/Leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NamRana/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2578-split-with-minimum-sum](https://github.com/NamRana/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/NamRana/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2864-maximum-odd-binary-number](https://github.com/NamRana/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/NamRana/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -746,6 +748,7 @@ Leetcode solutions
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/NamRana/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NamRana/Leetcode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2498-frog-jump-ii](https://github.com/NamRana/Leetcode/tree/master/2498-frog-jump-ii) |
+| [2578-split-with-minimum-sum](https://github.com/NamRana/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/NamRana/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2708-maximum-strength-of-a-group](https://github.com/NamRana/Leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2864-maximum-odd-binary-number](https://github.com/NamRana/Leetcode/tree/master/2864-maximum-odd-binary-number) |
