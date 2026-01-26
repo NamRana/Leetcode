@@ -484,6 +484,7 @@ Leetcode solutions
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/NamRana/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/NamRana/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/NamRana/Leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3794-reverse-string-prefix](https://github.com/NamRana/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3973-flip-square-submatrix-vertically](https://github.com/NamRana/Leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 ## String
 |  |
@@ -561,6 +562,7 @@ Leetcode solutions
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/NamRana/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/NamRana/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/NamRana/Leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3794-reverse-string-prefix](https://github.com/NamRana/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/NamRana/Leetcode/tree/master/3798-largest-even-number) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/NamRana/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3934-coupon-code-validator](https://github.com/NamRana/Leetcode/tree/master/3934-coupon-code-validator) |
