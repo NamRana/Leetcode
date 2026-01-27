@@ -115,6 +115,7 @@ Leetcode solutions
 | [1895-largest-magic-square](https://github.com/NamRana/Leetcode/tree/master/1895-largest-magic-square) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/NamRana/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/NamRana/Leetcode/tree/master/1929-concatenation-of-array) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/NamRana/Leetcode/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1975-maximum-matrix-sum](https://github.com/NamRana/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NamRana/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NamRana/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -654,6 +655,7 @@ Leetcode solutions
 | [1559-detect-cycles-in-2d-grid](https://github.com/NamRana/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/NamRana/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1895-largest-magic-square](https://github.com/NamRana/Leetcode/tree/master/1895-largest-magic-square) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/NamRana/Leetcode/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1975-maximum-matrix-sum](https://github.com/NamRana/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/NamRana/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/NamRana/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -710,6 +712,7 @@ Leetcode solutions
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/NamRana/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1764-maximum-repeating-substring](https://github.com/NamRana/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/NamRana/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/NamRana/Leetcode/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/NamRana/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2054-two-best-non-overlapping-events](https://github.com/NamRana/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2063-vowels-of-all-substrings](https://github.com/NamRana/Leetcode/tree/master/2063-vowels-of-all-substrings) |
