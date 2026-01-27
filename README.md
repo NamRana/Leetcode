@@ -94,6 +94,7 @@ Leetcode solutions
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NamRana/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/NamRana/Leetcode/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NamRana/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/NamRana/Leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/NamRana/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/NamRana/Leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NamRana/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -379,6 +380,7 @@ Leetcode solutions
 | [1217-relative-sort-array](https://github.com/NamRana/Leetcode/tree/master/1217-relative-sort-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/NamRana/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NamRana/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/NamRana/Leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/NamRana/Leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NamRana/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/NamRana/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -753,6 +755,7 @@ Leetcode solutions
 | [1018-largest-perimeter-triangle](https://github.com/NamRana/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/NamRana/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/NamRana/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/NamRana/Leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1612-avoid-flood-in-the-city](https://github.com/NamRana/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/NamRana/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/NamRana/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
