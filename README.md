@@ -480,6 +480,7 @@ Leetcode solutions
 | [0986-interval-list-intersections](https://github.com/NamRana/Leetcode/tree/master/0986-interval-list-intersections) |
 | [1023-camelcase-matching](https://github.com/NamRana/Leetcode/tree/master/1023-camelcase-matching) |
 | [1454-remove-palindromic-subsequences](https://github.com/NamRana/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/NamRana/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/NamRana/Leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1768-merge-strings-alternately](https://github.com/NamRana/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/NamRana/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -537,6 +538,7 @@ Leetcode solutions
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/NamRana/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1446-consecutive-characters](https://github.com/NamRana/Leetcode/tree/master/1446-consecutive-characters) |
 | [1454-remove-palindromic-subsequences](https://github.com/NamRana/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/NamRana/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/NamRana/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/NamRana/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/NamRana/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -1003,6 +1005,7 @@ Leetcode solutions
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/NamRana/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1023-camelcase-matching](https://github.com/NamRana/Leetcode/tree/master/1023-camelcase-matching) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/NamRana/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1764-maximum-repeating-substring](https://github.com/NamRana/Leetcode/tree/master/1764-maximum-repeating-substring) |
 ## Binary Tree
 |  |
