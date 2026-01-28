@@ -832,6 +832,7 @@ Leetcode solutions
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/NamRana/Leetcode/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/NamRana/Leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/NamRana/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3249-count-the-number-of-good-nodes](https://github.com/NamRana/Leetcode/tree/master/3249-count-the-number-of-good-nodes) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/NamRana/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NamRana/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3863-power-grid-maintenance](https://github.com/NamRana/Leetcode/tree/master/3863-power-grid-maintenance) |
@@ -1017,6 +1018,7 @@ Leetcode solutions
 | [1448-count-good-nodes-in-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/NamRana/Leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/NamRana/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3249-count-the-number-of-good-nodes](https://github.com/NamRana/Leetcode/tree/master/3249-count-the-number-of-good-nodes) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/NamRana/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## String Matching
 |  |
