@@ -190,6 +190,7 @@ Leetcode solutions
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/NamRana/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/NamRana/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/NamRana/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NamRana/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/NamRana/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/NamRana/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/NamRana/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
@@ -682,6 +683,7 @@ Leetcode solutions
 | [2625-increment-submatrices-by-one](https://github.com/NamRana/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/NamRana/Leetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/NamRana/Leetcode/tree/master/3148-maximum-difference-score-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NamRana/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/NamRana/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3973-flip-square-submatrix-vertically](https://github.com/NamRana/Leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Dynamic Programming
@@ -831,6 +833,7 @@ Leetcode solutions
 | [2641-cousins-in-binary-tree-ii](https://github.com/NamRana/Leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/NamRana/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/NamRana/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NamRana/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3863-power-grid-maintenance](https://github.com/NamRana/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Counting Sort
 |  |
@@ -971,6 +974,7 @@ Leetcode solutions
 | [2121-find-if-path-exists-in-graph](https://github.com/NamRana/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/NamRana/Leetcode/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/NamRana/Leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NamRana/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3863-power-grid-maintenance](https://github.com/NamRana/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
@@ -1175,6 +1179,7 @@ Leetcode solutions
 | [0886-possible-bipartition](https://github.com/NamRana/Leetcode/tree/master/0886-possible-bipartition) |
 | [1267-count-servers-that-communicate](https://github.com/NamRana/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NamRana/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NamRana/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
