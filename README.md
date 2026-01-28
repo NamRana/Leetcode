@@ -193,6 +193,7 @@ Leetcode solutions
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/NamRana/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/NamRana/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/NamRana/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/NamRana/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3693-climbing-stairs-ii](https://github.com/NamRana/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/NamRana/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3745-maximize-expression-of-three-elements](https://github.com/NamRana/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
@@ -677,6 +678,7 @@ Leetcode solutions
 | [2625-increment-submatrices-by-one](https://github.com/NamRana/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/NamRana/Leetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/NamRana/Leetcode/tree/master/3148-maximum-difference-score-in-a-grid) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/NamRana/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3973-flip-square-submatrix-vertically](https://github.com/NamRana/Leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
@@ -746,6 +748,7 @@ Leetcode solutions
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/NamRana/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/NamRana/Leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/NamRana/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/NamRana/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3693-climbing-stairs-ii](https://github.com/NamRana/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/NamRana/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Greedy
