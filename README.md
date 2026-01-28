@@ -747,6 +747,7 @@ Leetcode solutions
 | [2708-maximum-strength-of-a-group](https://github.com/NamRana/Leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/NamRana/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/NamRana/Leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/NamRana/Leetcode/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/NamRana/Leetcode/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/NamRana/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/NamRana/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -832,6 +833,7 @@ Leetcode solutions
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/NamRana/Leetcode/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/NamRana/Leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/NamRana/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/NamRana/Leetcode/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 | [3249-count-the-number-of-good-nodes](https://github.com/NamRana/Leetcode/tree/master/3249-count-the-number-of-good-nodes) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/NamRana/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NamRana/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -1018,6 +1020,7 @@ Leetcode solutions
 | [1448-count-good-nodes-in-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/NamRana/Leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/NamRana/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/NamRana/Leetcode/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 | [3249-count-the-number-of-good-nodes](https://github.com/NamRana/Leetcode/tree/master/3249-count-the-number-of-good-nodes) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/NamRana/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## String Matching
