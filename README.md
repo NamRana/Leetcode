@@ -74,6 +74,7 @@ Leetcode solutions
 | [0986-interval-list-intersections](https://github.com/NamRana/Leetcode/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/NamRana/Leetcode/tree/master/0994-rotting-oranges) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/NamRana/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/NamRana/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-largest-perimeter-triangle](https://github.com/NamRana/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/NamRana/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1023-camelcase-matching](https://github.com/NamRana/Leetcode/tree/master/1023-camelcase-matching) |
@@ -380,6 +381,7 @@ Leetcode solutions
 | [0792-number-of-matching-subsequences](https://github.com/NamRana/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0922-sort-array-by-parity-ii](https://github.com/NamRana/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0954-array-of-doubled-pairs](https://github.com/NamRana/Leetcode/tree/master/0954-array-of-doubled-pairs) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/NamRana/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-largest-perimeter-triangle](https://github.com/NamRana/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/NamRana/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1217-relative-sort-array](https://github.com/NamRana/Leetcode/tree/master/1217-relative-sort-array) |
@@ -764,6 +766,7 @@ Leetcode solutions
 | [0759-set-intersection-size-at-least-two](https://github.com/NamRana/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0763-partition-labels](https://github.com/NamRana/Leetcode/tree/master/0763-partition-labels) |
 | [0954-array-of-doubled-pairs](https://github.com/NamRana/Leetcode/tree/master/0954-array-of-doubled-pairs) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/NamRana/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-largest-perimeter-triangle](https://github.com/NamRana/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/NamRana/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/NamRana/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
