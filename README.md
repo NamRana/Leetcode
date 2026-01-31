@@ -48,6 +48,7 @@ Leetcode solutions
 | [0717-1-bit-and-2-bit-characters](https://github.com/NamRana/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/NamRana/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0739-daily-temperatures](https://github.com/NamRana/Leetcode/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/NamRana/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/NamRana/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0749-shortest-completing-word](https://github.com/NamRana/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0759-set-intersection-size-at-least-two](https://github.com/NamRana/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
@@ -855,6 +856,7 @@ Leetcode solutions
 | [0611-valid-triangle-number](https://github.com/NamRana/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/NamRana/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/NamRana/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/NamRana/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-number-of-matching-subsequences](https://github.com/NamRana/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0794-swim-in-rising-water](https://github.com/NamRana/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NamRana/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
