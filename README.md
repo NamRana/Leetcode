@@ -204,6 +204,7 @@ Leetcode solutions
 | [3693-climbing-stairs-ii](https://github.com/NamRana/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/NamRana/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/NamRana/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/NamRana/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/NamRana/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/NamRana/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/NamRana/Leetcode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
@@ -303,6 +304,7 @@ Leetcode solutions
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/NamRana/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/NamRana/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/NamRana/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/NamRana/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/NamRana/Leetcode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3799-unique-3-digit-even-numbers](https://github.com/NamRana/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/NamRana/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -912,6 +914,7 @@ Leetcode solutions
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/NamRana/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/NamRana/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/NamRana/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/NamRana/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/NamRana/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Heap (Priority Queue)
 |  |
@@ -946,6 +949,7 @@ Leetcode solutions
 | [1873-longest-nice-substring](https://github.com/NamRana/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NamRana/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/NamRana/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/NamRana/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Graph
 |  |
 | ------- |
@@ -1191,6 +1195,7 @@ Leetcode solutions
 | ------- |
 | [3454-separate-squares-ii](https://github.com/NamRana/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/NamRana/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/NamRana/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Trie
 |  |
 | ------- |
