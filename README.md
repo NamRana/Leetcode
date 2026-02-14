@@ -732,6 +732,7 @@ Leetcode solutions
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/NamRana/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/NamRana/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-number-of-matching-subsequences](https://github.com/NamRana/Leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [0799-champagne-tower](https://github.com/NamRana/Leetcode/tree/master/0799-champagne-tower) |
 | [0831-largest-sum-of-averages](https://github.com/NamRana/Leetcode/tree/master/0831-largest-sum-of-averages) |
 | [0845-longest-mountain-in-array](https://github.com/NamRana/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/NamRana/Leetcode/tree/master/0873-length-of-longest-fibonacci-subsequence) |
