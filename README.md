@@ -437,6 +437,7 @@ Leetcode solutions
 | ------- |
 | [0002-add-two-numbers](https://github.com/NamRana/Leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/NamRana/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/NamRana/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/NamRana/Leetcode/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/NamRana/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0368-largest-divisible-subset](https://github.com/NamRana/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -522,6 +523,7 @@ Leetcode solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/NamRana/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/NamRana/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/NamRana/Leetcode/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/NamRana/Leetcode/tree/master/0067-add-binary) |
 | [0097-interleaving-string](https://github.com/NamRana/Leetcode/tree/master/0097-interleaving-string) |
 | [0165-compare-version-numbers](https://github.com/NamRana/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/NamRana/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -623,6 +625,7 @@ Leetcode solutions
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/NamRana/Leetcode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/NamRana/Leetcode/tree/master/0682-baseball-game) |
 | [1642-water-bottles](https://github.com/NamRana/Leetcode/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/NamRana/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -656,6 +659,7 @@ Leetcode solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/NamRana/Leetcode/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/NamRana/Leetcode/tree/master/0090-subsets-ii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/NamRana/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0526-beautiful-arrangement](https://github.com/NamRana/Leetcode/tree/master/0526-beautiful-arrangement) |
