@@ -528,6 +528,7 @@ Leetcode solutions
 | [0165-compare-version-numbers](https://github.com/NamRana/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/NamRana/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/NamRana/Leetcode/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/NamRana/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0318-maximum-product-of-word-lengths](https://github.com/NamRana/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0383-ransom-note](https://github.com/NamRana/Leetcode/tree/master/0383-ransom-note) |
 | [0388-longest-absolute-file-path](https://github.com/NamRana/Leetcode/tree/master/0388-longest-absolute-file-path) |
@@ -1061,6 +1062,7 @@ Leetcode solutions
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/NamRana/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/NamRana/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1023-camelcase-matching](https://github.com/NamRana/Leetcode/tree/master/1023-camelcase-matching) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/NamRana/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -1091,6 +1093,7 @@ Leetcode solutions
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/NamRana/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/NamRana/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/NamRana/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Binary Search Tree
@@ -1200,6 +1203,7 @@ Leetcode solutions
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/NamRana/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/NamRana/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Segment Tree
 |  |
