@@ -652,6 +652,7 @@ Leetcode solutions
 | [0039-combination-sum](https://github.com/NamRana/Leetcode/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/NamRana/Leetcode/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/NamRana/Leetcode/tree/master/0090-subsets-ii) |
+| [0401-binary-watch](https://github.com/NamRana/Leetcode/tree/master/0401-binary-watch) |
 | [0526-beautiful-arrangement](https://github.com/NamRana/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/NamRana/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/NamRana/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -664,6 +665,7 @@ Leetcode solutions
 | [0090-subsets-ii](https://github.com/NamRana/Leetcode/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/NamRana/Leetcode/tree/master/0190-reverse-bits) |
 | [0318-maximum-product-of-word-lengths](https://github.com/NamRana/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0401-binary-watch](https://github.com/NamRana/Leetcode/tree/master/0401-binary-watch) |
 | [0526-beautiful-arrangement](https://github.com/NamRana/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/NamRana/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/NamRana/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
