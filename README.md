@@ -494,6 +494,7 @@ Leetcode solutions
 | [0165-compare-version-numbers](https://github.com/NamRana/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/NamRana/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0611-valid-triangle-number](https://github.com/NamRana/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/NamRana/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/NamRana/Leetcode/tree/master/0763-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/NamRana/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0845-longest-mountain-in-array](https://github.com/NamRana/Leetcode/tree/master/0845-longest-mountain-in-array) |
@@ -541,6 +542,7 @@ Leetcode solutions
 | [0551-student-attendance-record-i](https://github.com/NamRana/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/NamRana/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0678-valid-parenthesis-string](https://github.com/NamRana/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0696-count-binary-substrings](https://github.com/NamRana/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/NamRana/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0749-shortest-completing-word](https://github.com/NamRana/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0763-partition-labels](https://github.com/NamRana/Leetcode/tree/master/0763-partition-labels) |
