@@ -390,6 +390,7 @@ Leetcode solutions
 | [0621-task-scheduler](https://github.com/NamRana/Leetcode/tree/master/0621-task-scheduler) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/NamRana/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0759-set-intersection-size-at-least-two](https://github.com/NamRana/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/NamRana/Leetcode/tree/master/0761-special-binary-string) |
 | [0792-number-of-matching-subsequences](https://github.com/NamRana/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0922-sort-array-by-parity-ii](https://github.com/NamRana/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0954-array-of-doubled-pairs](https://github.com/NamRana/Leetcode/tree/master/0954-array-of-doubled-pairs) |
@@ -545,6 +546,7 @@ Leetcode solutions
 | [0696-count-binary-substrings](https://github.com/NamRana/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/NamRana/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0749-shortest-completing-word](https://github.com/NamRana/Leetcode/tree/master/0749-shortest-completing-word) |
+| [0761-special-binary-string](https://github.com/NamRana/Leetcode/tree/master/0761-special-binary-string) |
 | [0763-partition-labels](https://github.com/NamRana/Leetcode/tree/master/0763-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/NamRana/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0792-number-of-matching-subsequences](https://github.com/NamRana/Leetcode/tree/master/0792-number-of-matching-subsequences) |
@@ -964,6 +966,7 @@ Leetcode solutions
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/NamRana/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/NamRana/Leetcode/tree/master/0190-reverse-bits) |
 | [0654-maximum-binary-tree](https://github.com/NamRana/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0761-special-binary-string](https://github.com/NamRana/Leetcode/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/NamRana/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1873-longest-nice-substring](https://github.com/NamRana/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NamRana/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
