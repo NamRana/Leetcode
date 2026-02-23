@@ -265,6 +265,7 @@ Leetcode solutions
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/NamRana/Leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NamRana/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NamRana/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NamRana/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NamRana/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1496-path-crossing](https://github.com/NamRana/Leetcode/tree/master/1496-path-crossing) |
 | [1500-count-largest-group](https://github.com/NamRana/Leetcode/tree/master/1500-count-largest-group) |
@@ -566,6 +567,7 @@ Leetcode solutions
 | [1446-consecutive-characters](https://github.com/NamRana/Leetcode/tree/master/1446-consecutive-characters) |
 | [1454-remove-palindromic-subsequences](https://github.com/NamRana/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/NamRana/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NamRana/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1496-path-crossing](https://github.com/NamRana/Leetcode/tree/master/1496-path-crossing) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/NamRana/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/NamRana/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -674,6 +676,7 @@ Leetcode solutions
 | [0693-binary-number-with-alternating-bits](https://github.com/NamRana/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/NamRana/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/NamRana/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NamRana/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/NamRana/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NamRana/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1873-longest-nice-substring](https://github.com/NamRana/Leetcode/tree/master/1873-longest-nice-substring) |
@@ -1106,6 +1109,7 @@ Leetcode solutions
 | [0214-shortest-palindrome](https://github.com/NamRana/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/NamRana/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/NamRana/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NamRana/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1215,6 +1219,7 @@ Leetcode solutions
 | ------- |
 | [0214-shortest-palindrome](https://github.com/NamRana/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/NamRana/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NamRana/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Segment Tree
 |  |
 | ------- |
