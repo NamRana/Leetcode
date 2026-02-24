@@ -858,6 +858,7 @@ Leetcode solutions
 | [0975-range-sum-of-bst](https://github.com/NamRana/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/NamRana/Leetcode/tree/master/1008-binary-tree-cameras) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/NamRana/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/NamRana/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/NamRana/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1060,6 +1061,7 @@ Leetcode solutions
 | [0975-range-sum-of-bst](https://github.com/NamRana/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/NamRana/Leetcode/tree/master/1008-binary-tree-cameras) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/NamRana/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/NamRana/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/NamRana/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1095,6 +1097,7 @@ Leetcode solutions
 | [0975-range-sum-of-bst](https://github.com/NamRana/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/NamRana/Leetcode/tree/master/1008-binary-tree-cameras) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/NamRana/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/NamRana/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/NamRana/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NamRana/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
