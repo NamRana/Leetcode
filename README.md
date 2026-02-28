@@ -64,6 +64,7 @@ Leetcode solutions
 | [0841-shortest-distance-to-a-character](https://github.com/NamRana/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0845-longest-mountain-in-array](https://github.com/NamRana/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/NamRana/Leetcode/tree/master/0873-length-of-longest-fibonacci-subsequence) |
+| [0875-koko-eating-bananas](https://github.com/NamRana/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-loud-and-rich](https://github.com/NamRana/Leetcode/tree/master/0881-loud-and-rich) |
 | [0890-find-and-replace-pattern](https://github.com/NamRana/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0922-sort-array-by-parity-ii](https://github.com/NamRana/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -899,6 +900,7 @@ Leetcode solutions
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NamRana/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-number-of-matching-subsequences](https://github.com/NamRana/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0794-swim-in-rising-water](https://github.com/NamRana/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/NamRana/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NamRana/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/NamRana/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NamRana/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
