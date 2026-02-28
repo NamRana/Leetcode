@@ -456,6 +456,7 @@ Leetcode solutions
 | [1636-number-of-substrings-with-only-1s](https://github.com/NamRana/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1641-count-sorted-vowel-strings](https://github.com/NamRana/Leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1642-water-bottles](https://github.com/NamRana/Leetcode/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/NamRana/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/NamRana/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/NamRana/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2063-vowels-of-all-substrings](https://github.com/NamRana/Leetcode/tree/master/2063-vowels-of-all-substrings) |
@@ -637,6 +638,7 @@ Leetcode solutions
 | [0682-baseball-game](https://github.com/NamRana/Leetcode/tree/master/0682-baseball-game) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/NamRana/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/NamRana/Leetcode/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/NamRana/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/NamRana/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/NamRana/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/NamRana/Leetcode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
@@ -680,6 +682,7 @@ Leetcode solutions
 | [1018-binary-prefix-divisible-by-5](https://github.com/NamRana/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/NamRana/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NamRana/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/NamRana/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/NamRana/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NamRana/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1873-longest-nice-substring](https://github.com/NamRana/Leetcode/tree/master/1873-longest-nice-substring) |
