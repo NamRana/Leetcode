@@ -574,6 +574,7 @@ Leetcode solutions
 | [1496-path-crossing](https://github.com/NamRana/Leetcode/tree/master/1496-path-crossing) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/NamRana/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/NamRana/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/NamRana/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/NamRana/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/NamRana/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/NamRana/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -821,6 +822,7 @@ Leetcode solutions
 | [1382-balance-a-binary-search-tree](https://github.com/NamRana/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/NamRana/Leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1612-avoid-flood-in-the-city](https://github.com/NamRana/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/NamRana/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/NamRana/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/NamRana/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/NamRana/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
