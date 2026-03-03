@@ -572,6 +572,7 @@ Leetcode solutions
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/NamRana/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NamRana/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1496-path-crossing](https://github.com/NamRana/Leetcode/tree/master/1496-path-crossing) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/NamRana/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/NamRana/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/NamRana/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/NamRana/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -639,6 +640,7 @@ Leetcode solutions
 | [0067-add-binary](https://github.com/NamRana/Leetcode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/NamRana/Leetcode/tree/master/0682-baseball-game) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/NamRana/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/NamRana/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/NamRana/Leetcode/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/NamRana/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/NamRana/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -1149,6 +1151,7 @@ Leetcode solutions
 | ------- |
 | [0002-add-two-numbers](https://github.com/NamRana/Leetcode/tree/master/0002-add-two-numbers) |
 | [0894-all-possible-full-binary-trees](https://github.com/NamRana/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/NamRana/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3799-unique-3-digit-even-numbers](https://github.com/NamRana/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
