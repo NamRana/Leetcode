@@ -104,6 +104,7 @@ Leetcode solutions
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NamRana/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/NamRana/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1534-count-good-triplets](https://github.com/NamRana/Leetcode/tree/master/1534-count-good-triplets) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/NamRana/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1539-kth-missing-positive-number](https://github.com/NamRana/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NamRana/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NamRana/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -713,6 +714,7 @@ Leetcode solutions
 | [1277-count-square-submatrices-with-all-ones](https://github.com/NamRana/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NamRana/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/NamRana/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/NamRana/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NamRana/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/NamRana/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/NamRana/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -823,6 +825,7 @@ Leetcode solutions
 | [1262-greatest-sum-divisible-by-three](https://github.com/NamRana/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/NamRana/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/NamRana/Leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/NamRana/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/NamRana/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/NamRana/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/NamRana/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
