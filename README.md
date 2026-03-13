@@ -177,6 +177,7 @@ Leetcode solutions
 | [3148-maximum-difference-score-in-a-grid](https://github.com/NamRana/Leetcode/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NamRana/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NamRana/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NamRana/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/NamRana/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/NamRana/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/NamRana/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -476,6 +477,7 @@ Leetcode solutions
 | [2864-maximum-odd-binary-number](https://github.com/NamRana/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/NamRana/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NamRana/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NamRana/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3336-water-bottles-ii](https://github.com/NamRana/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/NamRana/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/NamRana/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -849,6 +851,7 @@ Leetcode solutions
 | [2864-maximum-odd-binary-number](https://github.com/NamRana/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/NamRana/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/NamRana/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NamRana/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/NamRana/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/NamRana/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/NamRana/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -925,6 +928,7 @@ Leetcode solutions
 | [2498-frog-jump-ii](https://github.com/NamRana/Leetcode/tree/master/2498-frog-jump-ii) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/NamRana/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2831-find-the-longest-equal-subarray](https://github.com/NamRana/Leetcode/tree/master/2831-find-the-longest-equal-subarray) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NamRana/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/NamRana/Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/NamRana/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/NamRana/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -979,6 +983,7 @@ Leetcode solutions
 | [2402-meeting-rooms-iii](https://github.com/NamRana/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/NamRana/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2762-continuous-subarrays](https://github.com/NamRana/Leetcode/tree/master/2762-continuous-subarrays) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NamRana/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NamRana/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/NamRana/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/NamRana/Leetcode/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
