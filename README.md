@@ -571,6 +571,7 @@ Leetcode solutions
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/NamRana/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/NamRana/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/NamRana/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/NamRana/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1446-consecutive-characters](https://github.com/NamRana/Leetcode/tree/master/1446-consecutive-characters) |
 | [1454-remove-palindromic-subsequences](https://github.com/NamRana/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/NamRana/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -676,6 +677,7 @@ Leetcode solutions
 | [0401-binary-watch](https://github.com/NamRana/Leetcode/tree/master/0401-binary-watch) |
 | [0526-beautiful-arrangement](https://github.com/NamRana/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/NamRana/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/NamRana/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/NamRana/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/NamRana/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2708-maximum-strength-of-a-group](https://github.com/NamRana/Leetcode/tree/master/2708-maximum-strength-of-a-group) |
