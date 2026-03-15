@@ -457,6 +457,7 @@ Leetcode solutions
 | [1266-minimum-time-visiting-all-points](https://github.com/NamRana/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/NamRana/Leetcode/tree/master/1390-four-divisors) |
 | [1500-count-largest-group](https://github.com/NamRana/Leetcode/tree/master/1500-count-largest-group) |
+| [1622-fancy-sequence](https://github.com/NamRana/Leetcode/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/NamRana/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1641-count-sorted-vowel-strings](https://github.com/NamRana/Leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1642-water-bottles](https://github.com/NamRana/Leetcode/tree/master/1642-water-bottles) |
@@ -1203,6 +1204,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/NamRana/Leetcode/tree/master/0355-design-twitter) |
+| [1622-fancy-sequence](https://github.com/NamRana/Leetcode/tree/master/1622-fancy-sequence) |
 | [2013-detect-squares](https://github.com/NamRana/Leetcode/tree/master/2013-detect-squares) |
 | [2169-simple-bank-system](https://github.com/NamRana/Leetcode/tree/master/2169-simple-bank-system) |
 ## Ordered Set
@@ -1257,6 +1259,7 @@ Leetcode solutions
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/NamRana/Leetcode/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/NamRana/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/NamRana/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/NamRana/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
