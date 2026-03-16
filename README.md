@@ -121,6 +121,7 @@ Leetcode solutions
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/NamRana/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NamRana/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/NamRana/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NamRana/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/NamRana/Leetcode/tree/master/1895-largest-magic-square) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/NamRana/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/NamRana/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -411,6 +412,7 @@ Leetcode solutions
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/NamRana/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/NamRana/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/NamRana/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NamRana/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NamRana/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NamRana/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/NamRana/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
@@ -463,6 +465,7 @@ Leetcode solutions
 | [1642-water-bottles](https://github.com/NamRana/Leetcode/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/NamRana/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/NamRana/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NamRana/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/NamRana/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2063-vowels-of-all-substrings](https://github.com/NamRana/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/NamRana/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -728,6 +731,7 @@ Leetcode solutions
 | [1559-detect-cycles-in-2d-grid](https://github.com/NamRana/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/NamRana/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/NamRana/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NamRana/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/NamRana/Leetcode/tree/master/1895-largest-magic-square) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/NamRana/Leetcode/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1975-maximum-matrix-sum](https://github.com/NamRana/Leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -954,6 +958,7 @@ Leetcode solutions
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NamRana/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/NamRana/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/NamRana/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NamRana/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/NamRana/Leetcode/tree/master/1895-largest-magic-square) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/NamRana/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/NamRana/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -981,6 +986,7 @@ Leetcode solutions
 | [1046-last-stone-weight](https://github.com/NamRana/Leetcode/tree/master/1046-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/NamRana/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/NamRana/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NamRana/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NamRana/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/NamRana/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/NamRana/Leetcode/tree/master/2402-meeting-rooms-iii) |
