@@ -116,6 +116,7 @@ Leetcode solutions
 | [1654-minimum-jumps-to-reach-home](https://github.com/NamRana/Leetcode/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/NamRana/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/NamRana/Leetcode/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/NamRana/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/NamRana/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/NamRana/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/NamRana/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -410,6 +411,7 @@ Leetcode solutions
 | [1471-the-k-strongest-values-in-an-array](https://github.com/NamRana/Leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NamRana/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/NamRana/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/NamRana/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/NamRana/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/NamRana/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NamRana/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -731,6 +733,7 @@ Leetcode solutions
 | [1559-detect-cycles-in-2d-grid](https://github.com/NamRana/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/NamRana/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/NamRana/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/NamRana/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NamRana/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/NamRana/Leetcode/tree/master/1895-largest-magic-square) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/NamRana/Leetcode/tree/master/1937-maximum-number-of-points-with-cost) |
@@ -845,6 +848,7 @@ Leetcode solutions
 | [1612-avoid-flood-in-the-city](https://github.com/NamRana/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/NamRana/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/NamRana/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/NamRana/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/NamRana/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/NamRana/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1975-maximum-matrix-sum](https://github.com/NamRana/Leetcode/tree/master/1975-maximum-matrix-sum) |
