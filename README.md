@@ -123,6 +123,7 @@ Leetcode solutions
 | [1786-count-the-number-of-consistent-strings](https://github.com/NamRana/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/NamRana/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NamRana/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/NamRana/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/NamRana/Leetcode/tree/master/1895-largest-magic-square) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/NamRana/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/NamRana/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -737,6 +738,7 @@ Leetcode solutions
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/NamRana/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/NamRana/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NamRana/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/NamRana/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/NamRana/Leetcode/tree/master/1895-largest-magic-square) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/NamRana/Leetcode/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1975-maximum-matrix-sum](https://github.com/NamRana/Leetcode/tree/master/1975-maximum-matrix-sum) |
