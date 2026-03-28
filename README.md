@@ -157,6 +157,7 @@ Leetcode solutions
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/NamRana/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NamRana/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/NamRana/Leetcode/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+| [2573-find-the-string-with-lcp](https://github.com/NamRana/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/NamRana/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/NamRana/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/NamRana/Leetcode/tree/master/2625-increment-submatrices-by-one) |
@@ -619,6 +620,7 @@ Leetcode solutions
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NamRana/Leetcode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/NamRana/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/NamRana/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2573-find-the-string-with-lcp](https://github.com/NamRana/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2864-maximum-odd-binary-number](https://github.com/NamRana/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/NamRana/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/NamRana/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -748,6 +750,7 @@ Leetcode solutions
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/NamRana/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/NamRana/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/NamRana/Leetcode/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+| [2573-find-the-string-with-lcp](https://github.com/NamRana/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2625-increment-submatrices-by-one](https://github.com/NamRana/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/NamRana/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/NamRana/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -818,6 +821,7 @@ Leetcode solutions
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/NamRana/Leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/NamRana/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/NamRana/Leetcode/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+| [2573-find-the-string-with-lcp](https://github.com/NamRana/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/NamRana/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2708-maximum-strength-of-a-group](https://github.com/NamRana/Leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/NamRana/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -864,6 +868,7 @@ Leetcode solutions
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/NamRana/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2311-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NamRana/Leetcode/tree/master/2311-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2498-frog-jump-ii](https://github.com/NamRana/Leetcode/tree/master/2498-frog-jump-ii) |
+| [2573-find-the-string-with-lcp](https://github.com/NamRana/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2578-split-with-minimum-sum](https://github.com/NamRana/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/NamRana/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2708-maximum-strength-of-a-group](https://github.com/NamRana/Leetcode/tree/master/2708-maximum-strength-of-a-group) |
@@ -1300,6 +1305,7 @@ Leetcode solutions
 | [0886-possible-bipartition](https://github.com/NamRana/Leetcode/tree/master/0886-possible-bipartition) |
 | [1267-count-servers-that-communicate](https://github.com/NamRana/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NamRana/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2573-find-the-string-with-lcp](https://github.com/NamRana/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NamRana/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
