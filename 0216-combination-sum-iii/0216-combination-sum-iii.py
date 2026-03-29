@@ -3,7 +3,7 @@ class Solution:
         result=[]
 
         def backtrack(start, path, remaining):
-            #vaild combination found
+            #vaild combination found //base case
             if len(path)==k and remaining==0:
                 result.append(path[:])
                 return
