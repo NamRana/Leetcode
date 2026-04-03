@@ -214,6 +214,7 @@ Leetcode solutions
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/NamRana/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3640-trionic-array-ii](https://github.com/NamRana/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/NamRana/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/NamRana/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3693-climbing-stairs-ii](https://github.com/NamRana/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/NamRana/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/NamRana/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -446,6 +447,7 @@ Leetcode solutions
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/NamRana/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/NamRana/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/NamRana/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/NamRana/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3745-maximize-expression-of-three-elements](https://github.com/NamRana/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/NamRana/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3934-coupon-code-validator](https://github.com/NamRana/Leetcode/tree/master/3934-coupon-code-validator) |
@@ -845,6 +847,7 @@ Leetcode solutions
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/NamRana/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3640-trionic-array-ii](https://github.com/NamRana/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/NamRana/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/NamRana/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3693-climbing-stairs-ii](https://github.com/NamRana/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/NamRana/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Greedy
@@ -966,6 +969,7 @@ Leetcode solutions
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/NamRana/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/NamRana/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/NamRana/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/NamRana/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Geometry
 |  |
 | ------- |
