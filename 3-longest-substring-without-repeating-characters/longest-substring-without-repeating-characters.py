@@ -1,15 +1,6 @@
+from functools import reduce
+
+
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        left=0
-        check=set()
-        max_length=0
-
-        for right in range(len(s)):
-            while s[right] in check:
-                check.remove(s[left])
-                left+=1
-
-            check.add(s[right])
-            max_length=max(max_length,right-left+1)
-
-        return max_length
+        return reduce(lambda acc, ic: (max(acc[0], ic[0] - max(acc[1], acc[2].get(ic[1], -1) + 1) + 1), max(acc[1], acc[2].get(ic[1], -1) + 1), {**acc[2], ic[1]: ic[0]}), enumerate(s), (0, 0, {}))[0]
