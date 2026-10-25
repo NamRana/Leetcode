@@ -653,6 +653,7 @@ Leetcode solutions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NamRana/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/NamRana/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0173-binary-search-tree-iterator](https://github.com/NamRana/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0388-longest-absolute-file-path](https://github.com/NamRana/Leetcode/tree/master/0388-longest-absolute-file-path) |
 | [0654-maximum-binary-tree](https://github.com/NamRana/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/NamRana/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -1121,6 +1122,7 @@ Leetcode solutions
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/NamRana/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/NamRana/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/NamRana/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NamRana/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/NamRana/Leetcode/tree/master/0337-house-robber-iii) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/NamRana/Leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
@@ -1162,6 +1164,7 @@ Leetcode solutions
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/NamRana/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/NamRana/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/NamRana/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NamRana/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/NamRana/Leetcode/tree/master/0337-house-robber-iii) |
 | [0572-subtree-of-another-tree](https://github.com/NamRana/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -1192,6 +1195,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/NamRana/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/NamRana/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0933-increasing-order-search-tree](https://github.com/NamRana/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/NamRana/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/NamRana/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -1247,6 +1251,7 @@ Leetcode solutions
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/NamRana/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0355-design-twitter](https://github.com/NamRana/Leetcode/tree/master/0355-design-twitter) |
 | [1622-fancy-sequence](https://github.com/NamRana/Leetcode/tree/master/1622-fancy-sequence) |
 | [2013-detect-squares](https://github.com/NamRana/Leetcode/tree/master/2013-detect-squares) |
@@ -1347,4 +1352,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/NamRana/Leetcode/tree/master/0526-beautiful-arrangement) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/NamRana/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
