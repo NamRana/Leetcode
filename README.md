@@ -217,6 +217,7 @@ Leetcode solutions
 | [3640-trionic-array-ii](https://github.com/NamRana/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/NamRana/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/NamRana/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3665-twisted-mirror-path-count](https://github.com/NamRana/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/NamRana/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/NamRana/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/NamRana/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -774,6 +775,7 @@ Leetcode solutions
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/NamRana/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NamRana/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/NamRana/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3665-twisted-mirror-path-count](https://github.com/NamRana/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3973-flip-square-submatrix-vertically](https://github.com/NamRana/Leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
@@ -854,6 +856,7 @@ Leetcode solutions
 | [3640-trionic-array-ii](https://github.com/NamRana/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/NamRana/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/NamRana/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3665-twisted-mirror-path-count](https://github.com/NamRana/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/NamRana/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/NamRana/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Greedy
